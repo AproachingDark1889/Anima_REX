@@ -1,0 +1,546 @@
+2025-05-09 16:23:44,907 INFO: Cuenta configurada en REAL: modo REAL.
+2025-05-09 16:23:44,913 INFO: Configurando entorno...
+2025-05-09 16:36:04,590 INFO: Cuenta configurada en REAL: modo REAL.
+2025-05-09 16:36:04,597 INFO: Configurando entorno...
+2025-05-09 16:36:14,313 INFO: Broker conectado en modo DEMO
+2025-05-09 16:36:14,362 INFO: [OHLCV] ThreadPoolExecutor usando 3 workers (pares=3, cpu=12, techo=8)
+2025-05-09 16:36:14,962 INFO: Latencia de get_candles: 0.58 segundos
+2025-05-09 16:36:14,962 INFO: Latencia de get_candles: 0.60 segundos
+2025-05-09 16:36:14,962 INFO: Latencia de get_candles: 0.53 segundos
+2025-05-09 16:36:15,345 INFO: Datos de mercado almacenados.
+2025-05-09 16:36:15,348 INFO: Ejecutando backtest del ensemble...
+2025-05-09 16:36:19,790 INFO: Backtest completado.
+2025-05-09 16:36:19,865 INFO: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 16:36:19,865 INFO: Added job "GAOptimizer.optimize" to job store "default"
+2025-05-09 16:36:19,865 INFO: Scheduler started
+2025-05-09 16:36:19,865 INFO: Scheduler GA iniciado.
+2025-05-09 16:36:19,865 INFO: Iniciando núcleo en tiempo real...
+2025-05-09 16:36:19,865 INFO: Arrancando AnimaCore en modo DEMO
+2025-05-09 16:36:19,865 ERROR: Crash en demo; reiniciando en 30 s…
+Traceback (most recent call last):
+  File "C:\Users\FRANCISCO ARIAS\OneDrive - Asesoría Limac sa de cv\Escritorio\Anima_REX\main.py", line 62, in main
+    core = AnimaCore(demo=True, config=cfg)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: AnimaCore.__init__() got an unexpected keyword argument 'demo'
+2025-05-09 16:36:49,892 INFO: Arrancando AnimaCore en modo DEMO
+2025-05-09 16:36:49,892 ERROR: Crash en demo; reiniciando en 30 s…
+Traceback (most recent call last):
+  File "C:\Users\FRANCISCO ARIAS\OneDrive - Asesoría Limac sa de cv\Escritorio\Anima_REX\main.py", line 62, in main
+    core = AnimaCore(demo=True, config=cfg)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: AnimaCore.__init__() got an unexpected keyword argument 'demo'
+2025-05-09 16:37:19,903 INFO: Arrancando AnimaCore en modo DEMO
+2025-05-09 16:37:19,914 ERROR: Crash en demo; reiniciando en 30 s…
+Traceback (most recent call last):
+  File "C:\Users\FRANCISCO ARIAS\OneDrive - Asesoría Limac sa de cv\Escritorio\Anima_REX\main.py", line 62, in main
+    core = AnimaCore(demo=True, config=cfg)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: AnimaCore.__init__() got an unexpected keyword argument 'demo'
+2025-05-09 16:37:49,919 INFO: Arrancando AnimaCore en modo DEMO
+2025-05-09 16:37:49,919 ERROR: Crash en demo; reiniciando en 30 s…
+Traceback (most recent call last):
+  File "C:\Users\FRANCISCO ARIAS\OneDrive - Asesoría Limac sa de cv\Escritorio\Anima_REX\main.py", line 62, in main
+    core = AnimaCore(demo=True, config=cfg)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: AnimaCore.__init__() got an unexpected keyword argument 'demo'
+2025-05-09 16:38:19,924 INFO: Arrancando AnimaCore en modo DEMO
+2025-05-09 16:38:19,924 ERROR: Crash en demo; reiniciando en 30 s…
+Traceback (most recent call last):
+  File "C:\Users\FRANCISCO ARIAS\OneDrive - Asesoría Limac sa de cv\Escritorio\Anima_REX\main.py", line 62, in main
+    core = AnimaCore(demo=True, config=cfg)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: AnimaCore.__init__() got an unexpected keyword argument 'demo'
+2025-05-09 16:38:49,938 INFO: Arrancando AnimaCore en modo DEMO
+2025-05-09 16:38:49,940 ERROR: Crash en demo; reiniciando en 30 s…
+Traceback (most recent call last):
+  File "C:\Users\FRANCISCO ARIAS\OneDrive - Asesoría Limac sa de cv\Escritorio\Anima_REX\main.py", line 62, in main
+    core = AnimaCore(demo=True, config=cfg)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: AnimaCore.__init__() got an unexpected keyword argument 'demo'
+2025-05-09 16:39:19,948 INFO: Arrancando AnimaCore en modo DEMO
+2025-05-09 16:39:19,951 ERROR: Crash en demo; reiniciando en 30 s…
+Traceback (most recent call last):
+  File "C:\Users\FRANCISCO ARIAS\OneDrive - Asesoría Limac sa de cv\Escritorio\Anima_REX\main.py", line 62, in main
+    core = AnimaCore(demo=True, config=cfg)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: AnimaCore.__init__() got an unexpected keyword argument 'demo'
+2025-05-09 16:39:49,958 INFO: Arrancando AnimaCore en modo DEMO
+2025-05-09 16:39:49,963 ERROR: Crash en demo; reiniciando en 30 s…
+Traceback (most recent call last):
+  File "C:\Users\FRANCISCO ARIAS\OneDrive - Asesoría Limac sa de cv\Escritorio\Anima_REX\main.py", line 62, in main
+    core = AnimaCore(demo=True, config=cfg)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: AnimaCore.__init__() got an unexpected keyword argument 'demo'
+2025-05-09 16:40:20,002 INFO: Arrancando AnimaCore en modo DEMO
+2025-05-09 16:40:20,009 ERROR: Crash en demo; reiniciando en 30 s…
+Traceback (most recent call last):
+  File "C:\Users\FRANCISCO ARIAS\OneDrive - Asesoría Limac sa de cv\Escritorio\Anima_REX\main.py", line 62, in main
+    core = AnimaCore(demo=True, config=cfg)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: AnimaCore.__init__() got an unexpected keyword argument 'demo'
+2025-05-09 16:40:50,039 INFO: Arrancando AnimaCore en modo DEMO
+2025-05-09 16:40:50,143 ERROR: Crash en demo; reiniciando en 30 s…
+Traceback (most recent call last):
+  File "C:\Users\FRANCISCO ARIAS\OneDrive - Asesoría Limac sa de cv\Escritorio\Anima_REX\main.py", line 62, in main
+    core = AnimaCore(demo=True, config=cfg)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: AnimaCore.__init__() got an unexpected keyword argument 'demo'
+2025-05-09 16:41:20,160 INFO: Arrancando AnimaCore en modo DEMO
+2025-05-09 16:41:20,160 ERROR: Crash en demo; reiniciando en 30 s…
+Traceback (most recent call last):
+  File "C:\Users\FRANCISCO ARIAS\OneDrive - Asesoría Limac sa de cv\Escritorio\Anima_REX\main.py", line 62, in main
+    core = AnimaCore(demo=True, config=cfg)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: AnimaCore.__init__() got an unexpected keyword argument 'demo'
+2025-05-09 17:25:11,823 INFO: Arrancando AnimaCore en modo DEMO
+2025-05-09 17:25:11,825 ERROR: Connection is already closed.
+2025-05-09 17:25:12,572 ERROR: Crash en demo; reiniciando en 30 s…
+Traceback (most recent call last):
+  File "C:\Users\FRANCISCO ARIAS\OneDrive - Asesoría Limac sa de cv\Escritorio\Anima_REX\main.py", line 62, in main
+    core = AnimaCore(demo=True, config=cfg)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: AnimaCore.__init__() got an unexpected keyword argument 'demo'
+2025-05-09 17:38:32,110 INFO: Arrancando AnimaCore en modo DEMO
+2025-05-09 17:38:32,195 ERROR: Crash en demo; reiniciando en 30 s…
+Traceback (most recent call last):
+  File "C:\Users\FRANCISCO ARIAS\OneDrive - Asesoría Limac sa de cv\Escritorio\Anima_REX\main.py", line 62, in main
+    core = AnimaCore(demo=True, config=cfg)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: AnimaCore.__init__() got an unexpected keyword argument 'demo'
+2025-05-09 17:39:02,226 INFO: Arrancando AnimaCore en modo DEMO
+2025-05-09 17:39:02,327 ERROR: Crash en demo; reiniciando en 30 s…
+Traceback (most recent call last):
+  File "C:\Users\FRANCISCO ARIAS\OneDrive - Asesoría Limac sa de cv\Escritorio\Anima_REX\main.py", line 62, in main
+    core = AnimaCore(demo=True, config=cfg)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: AnimaCore.__init__() got an unexpected keyword argument 'demo'
+2025-05-09 17:39:32,374 INFO: Arrancando AnimaCore en modo DEMO
+2025-05-09 17:39:32,374 ERROR: Crash en demo; reiniciando en 30 s…
+Traceback (most recent call last):
+  File "C:\Users\FRANCISCO ARIAS\OneDrive - Asesoría Limac sa de cv\Escritorio\Anima_REX\main.py", line 62, in main
+    core = AnimaCore(demo=True, config=cfg)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: AnimaCore.__init__() got an unexpected keyword argument 'demo'
+2025-05-09 17:40:02,381 INFO: Arrancando AnimaCore en modo DEMO
+2025-05-09 17:40:02,381 ERROR: Crash en demo; reiniciando en 30 s…
+Traceback (most recent call last):
+  File "C:\Users\FRANCISCO ARIAS\OneDrive - Asesoría Limac sa de cv\Escritorio\Anima_REX\main.py", line 62, in main
+    core = AnimaCore(demo=True, config=cfg)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: AnimaCore.__init__() got an unexpected keyword argument 'demo'
+2025-05-09 21:35:10,817 INFO: Cuenta configurada en REAL: modo REAL.
+2025-05-09 21:35:10,817 INFO: Configurando entorno...
+2025-05-09 21:35:22,142 INFO: Broker conectado en modo DEMO
+2025-05-09 21:35:22,151 INFO: [OHLCV] ThreadPoolExecutor usando 3 workers (pares=3, cpu=12, techo=8)
+2025-05-09 21:35:22,633 INFO: Latencia de get_candles: 0.47 segundos
+2025-05-09 21:35:22,645 INFO: Latencia de get_candles: 0.45 segundos
+2025-05-09 21:35:22,645 INFO: Latencia de get_candles: 0.42 segundos
+2025-05-09 21:35:22,931 INFO: Datos de mercado almacenados.
+2025-05-09 21:35:22,931 INFO: Ejecutando backtest del ensemble...
+2025-05-09 21:35:26,841 INFO: Backtest completado.
+2025-05-09 21:35:26,917 INFO: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 21:35:26,917 INFO: Added job "GAOptimizer.optimize" to job store "default"
+2025-05-09 21:35:26,917 INFO: Scheduler started
+2025-05-09 21:35:26,917 INFO: Scheduler GA iniciado.
+2025-05-09 21:35:26,917 INFO: Iniciando núcleo en tiempo real...
+2025-05-09 21:35:26,925 INFO: Arrancando AnimaCore en modo DEMO
+2025-05-09 21:35:29,221 INFO: Broker conectado en modo DEMO
+2025-05-09 21:35:29,309 WARNING: No se encontraron pesos optimizados; usando lógica estándar.
+2025-05-09 21:35:30,653 INFO: [mhi1_maioria] Iniciando análisis en EURUSD, cada 60s
+2025-05-09 21:35:30,653 INFO: Worker lanzado: mhi1_maioria sobre EURUSD
+2025-05-09 21:35:30,678 ERROR: [mhi1_maioria] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:35:30,686 INFO: [mhi1_minoria] Iniciando análisis en EURUSD, cada 60s
+2025-05-09 21:35:30,686 INFO: Worker lanzado: mhi1_minoria sobre EURUSD
+2025-05-09 21:35:30,686 ERROR: [mhi1_minoria] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:35:30,695 INFO: [mhi2_maioria] Iniciando análisis en EURUSD, cada 60s
+2025-05-09 21:35:30,695 INFO: Worker lanzado: mhi2_maioria sobre EURUSD
+2025-05-09 21:35:30,695 ERROR: [mhi2_maioria] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:35:30,703 INFO: [mhi2_minoria] Iniciando análisis en EURUSD, cada 60s
+2025-05-09 21:35:30,703 INFO: Worker lanzado: mhi2_minoria sobre EURUSD
+2025-05-09 21:35:30,703 ERROR: [mhi2_minoria] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:35:30,711 INFO: [mhi3_maioria] Iniciando análisis en EURUSD, cada 60s
+2025-05-09 21:35:30,711 INFO: Worker lanzado: mhi3_maioria sobre EURUSD
+2025-05-09 21:35:30,711 ERROR: [mhi3_maioria] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:35:30,719 INFO: [mhi3_minoria] Iniciando análisis en EURUSD, cada 60s
+2025-05-09 21:35:30,719 INFO: Worker lanzado: mhi3_minoria sobre EURUSD
+2025-05-09 21:35:30,719 ERROR: [mhi3_minoria] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:35:30,727 INFO: [milhao_maioria] Iniciando análisis en EURUSD, cada 60s
+2025-05-09 21:35:30,727 INFO: Worker lanzado: milhao_maioria sobre EURUSD
+2025-05-09 21:35:30,727 ERROR: [milhao_maioria] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:35:30,752 INFO: [milhao_minoria] Iniciando análisis en EURUSD, cada 60s
+2025-05-09 21:35:30,752 INFO: Worker lanzado: milhao_minoria sobre EURUSD
+2025-05-09 21:35:30,752 ERROR: [milhao_minoria] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:35:30,761 INFO: [padrao_impar] Iniciando análisis en EURUSD, cada 60s
+2025-05-09 21:35:30,761 INFO: Worker lanzado: padrao_impar sobre EURUSD
+2025-05-09 21:35:30,761 ERROR: [padrao_impar] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:35:30,769 INFO: [melhor_de_3] Iniciando análisis en EURUSD, cada 60s
+2025-05-09 21:35:30,769 INFO: Worker lanzado: melhor_de_3 sobre EURUSD
+2025-05-09 21:35:30,769 ERROR: [melhor_de_3] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:35:30,777 INFO: [padrao_23] Iniciando análisis en EURUSD, cada 60s
+2025-05-09 21:35:30,777 INFO: Worker lanzado: padrao_23 sobre EURUSD
+2025-05-09 21:35:30,777 ERROR: [padrao_23] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:35:30,794 INFO: [turno_over] Iniciando análisis en EURUSD, cada 60s
+2025-05-09 21:35:30,794 INFO: Worker lanzado: turno_over sobre EURUSD
+2025-05-09 21:35:30,794 ERROR: [turno_over] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:35:30,802 INFO: [seven_flip] Iniciando análisis en EURUSD, cada 60s
+2025-05-09 21:35:30,802 INFO: Worker lanzado: seven_flip sobre EURUSD
+2025-05-09 21:35:30,802 ERROR: [seven_flip] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:35:30,814 INFO: [gaba] Iniciando análisis en EURUSD, cada 60s
+2025-05-09 21:35:30,818 INFO: Worker lanzado: gaba sobre EURUSD
+2025-05-09 21:35:30,818 ERROR: [gaba] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:35:30,818 INFO: [five_flip] Iniciando análisis en EURUSD, cada 60s
+2025-05-09 21:35:30,818 INFO: Worker lanzado: five_flip sobre EURUSD
+2025-05-09 21:35:30,826 ERROR: [five_flip] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:35:30,828 INFO: [reversao] Iniciando análisis en EURUSD, cada 60s
+2025-05-09 21:35:30,828 INFO: Worker lanzado: reversao sobre EURUSD
+2025-05-09 21:35:30,834 ERROR: [reversao] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:35:30,834 INFO: [tres_vizinhos] Iniciando análisis en EURUSD, cada 60s
+2025-05-09 21:35:30,834 INFO: Worker lanzado: tres_vizinhos sobre EURUSD
+2025-05-09 21:35:30,873 ERROR: [tres_vizinhos] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:35:30,879 INFO: [torres_gemeas] Iniciando análisis en EURUSD, cada 60s
+2025-05-09 21:35:30,879 INFO: Worker lanzado: torres_gemeas sobre EURUSD
+2025-05-09 21:35:30,881 ERROR: [torres_gemeas] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:35:30,883 INFO: [tres_mosqueteiros] Iniciando análisis en EURUSD, cada 60s
+2025-05-09 21:35:30,883 INFO: Worker lanzado: tres_mosqueteiros sobre EURUSD
+2025-05-09 21:35:30,883 ERROR: [tres_mosqueteiros] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:35:30,883 INFO: [mhi1_maioria] Iniciando análisis en USDJPY-OTC, cada 60s
+2025-05-09 21:35:30,883 INFO: Worker lanzado: mhi1_maioria sobre USDJPY-OTC
+2025-05-09 21:35:30,883 ERROR: [mhi1_maioria] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:35:30,883 INFO: [mhi1_minoria] Iniciando análisis en USDJPY-OTC, cada 60s
+2025-05-09 21:35:30,883 INFO: Worker lanzado: mhi1_minoria sobre USDJPY-OTC
+2025-05-09 21:35:30,883 ERROR: [mhi1_minoria] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:35:30,891 INFO: [mhi2_maioria] Iniciando análisis en USDJPY-OTC, cada 60s
+2025-05-09 21:35:30,891 INFO: Worker lanzado: mhi2_maioria sobre USDJPY-OTC
+2025-05-09 21:35:30,893 ERROR: [mhi2_maioria] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:35:30,893 INFO: [mhi2_minoria] Iniciando análisis en USDJPY-OTC, cada 60s
+2025-05-09 21:35:30,893 INFO: Worker lanzado: mhi2_minoria sobre USDJPY-OTC
+2025-05-09 21:35:30,893 ERROR: [mhi2_minoria] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:35:30,893 INFO: [mhi3_maioria] Iniciando análisis en USDJPY-OTC, cada 60s
+2025-05-09 21:35:30,893 INFO: Worker lanzado: mhi3_maioria sobre USDJPY-OTC
+2025-05-09 21:35:30,899 ERROR: [mhi3_maioria] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:35:30,899 INFO: [mhi3_minoria] Iniciando análisis en USDJPY-OTC, cada 60s
+2025-05-09 21:35:30,899 INFO: Worker lanzado: mhi3_minoria sobre USDJPY-OTC
+2025-05-09 21:35:30,899 ERROR: [mhi3_minoria] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:35:30,899 INFO: [milhao_maioria] Iniciando análisis en USDJPY-OTC, cada 60s
+2025-05-09 21:35:30,899 INFO: Worker lanzado: milhao_maioria sobre USDJPY-OTC
+2025-05-09 21:35:30,899 ERROR: [milhao_maioria] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:35:30,899 INFO: [milhao_minoria] Iniciando análisis en USDJPY-OTC, cada 60s
+2025-05-09 21:35:30,899 INFO: Worker lanzado: milhao_minoria sobre USDJPY-OTC
+2025-05-09 21:35:30,899 ERROR: [milhao_minoria] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:35:30,899 INFO: [padrao_impar] Iniciando análisis en USDJPY-OTC, cada 60s
+2025-05-09 21:35:30,899 INFO: Worker lanzado: padrao_impar sobre USDJPY-OTC
+2025-05-09 21:35:30,899 ERROR: [padrao_impar] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:35:30,916 INFO: [melhor_de_3] Iniciando análisis en USDJPY-OTC, cada 60s
+2025-05-09 21:35:30,916 INFO: Worker lanzado: melhor_de_3 sobre USDJPY-OTC
+2025-05-09 21:35:30,916 ERROR: [melhor_de_3] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:35:30,916 INFO: [padrao_23] Iniciando análisis en USDJPY-OTC, cada 60s
+2025-05-09 21:35:30,916 INFO: Worker lanzado: padrao_23 sobre USDJPY-OTC
+2025-05-09 21:35:30,924 ERROR: [padrao_23] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:35:30,924 INFO: [turno_over] Iniciando análisis en USDJPY-OTC, cada 60s
+2025-05-09 21:35:30,924 INFO: Worker lanzado: turno_over sobre USDJPY-OTC
+2025-05-09 21:35:30,924 ERROR: [turno_over] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:35:30,924 INFO: [seven_flip] Iniciando análisis en USDJPY-OTC, cada 60s
+2025-05-09 21:35:30,924 INFO: Worker lanzado: seven_flip sobre USDJPY-OTC
+2025-05-09 21:35:30,924 ERROR: [seven_flip] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:35:30,932 INFO: [gaba] Iniciando análisis en USDJPY-OTC, cada 60s
+2025-05-09 21:35:30,932 INFO: Worker lanzado: gaba sobre USDJPY-OTC
+2025-05-09 21:35:30,934 ERROR: [gaba] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:35:30,934 INFO: [five_flip] Iniciando análisis en USDJPY-OTC, cada 60s
+2025-05-09 21:35:30,934 INFO: Worker lanzado: five_flip sobre USDJPY-OTC
+2025-05-09 21:35:30,934 ERROR: [five_flip] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:35:30,934 INFO: [reversao] Iniciando análisis en USDJPY-OTC, cada 60s
+2025-05-09 21:35:30,934 INFO: Worker lanzado: reversao sobre USDJPY-OTC
+2025-05-09 21:35:30,934 ERROR: [reversao] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:35:30,940 INFO: [tres_vizinhos] Iniciando análisis en USDJPY-OTC, cada 60s
+2025-05-09 21:35:30,940 INFO: Worker lanzado: tres_vizinhos sobre USDJPY-OTC
+2025-05-09 21:35:30,941 ERROR: [tres_vizinhos] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:35:30,941 INFO: [torres_gemeas] Iniciando análisis en USDJPY-OTC, cada 60s
+2025-05-09 21:35:30,941 INFO: Worker lanzado: torres_gemeas sobre USDJPY-OTC
+2025-05-09 21:35:30,941 ERROR: [torres_gemeas] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:35:30,949 INFO: [tres_mosqueteiros] Iniciando análisis en USDJPY-OTC, cada 60s
+2025-05-09 21:35:30,949 INFO: Worker lanzado: tres_mosqueteiros sobre USDJPY-OTC
+2025-05-09 21:35:30,949 ERROR: [tres_mosqueteiros] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:35:30,949 INFO: [mhi1_maioria] Iniciando análisis en GBPUSD, cada 60s
+2025-05-09 21:35:30,949 INFO: Worker lanzado: mhi1_maioria sobre GBPUSD
+2025-05-09 21:35:30,949 ERROR: [mhi1_maioria] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:35:30,949 INFO: [mhi1_minoria] Iniciando análisis en GBPUSD, cada 60s
+2025-05-09 21:35:30,949 INFO: Worker lanzado: mhi1_minoria sobre GBPUSD
+2025-05-09 21:35:30,949 ERROR: [mhi1_minoria] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:35:30,949 INFO: [mhi2_maioria] Iniciando análisis en GBPUSD, cada 60s
+2025-05-09 21:35:30,949 INFO: Worker lanzado: mhi2_maioria sobre GBPUSD
+2025-05-09 21:35:30,956 ERROR: [mhi2_maioria] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:35:30,965 INFO: [mhi2_minoria] Iniciando análisis en GBPUSD, cada 60s
+2025-05-09 21:35:30,965 INFO: Worker lanzado: mhi2_minoria sobre GBPUSD
+2025-05-09 21:35:30,965 ERROR: [mhi2_minoria] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:35:30,965 INFO: [mhi3_maioria] Iniciando análisis en GBPUSD, cada 60s
+2025-05-09 21:35:30,965 INFO: Worker lanzado: mhi3_maioria sobre GBPUSD
+2025-05-09 21:35:30,965 ERROR: [mhi3_maioria] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:35:30,965 INFO: [mhi3_minoria] Iniciando análisis en GBPUSD, cada 60s
+2025-05-09 21:35:30,965 INFO: Worker lanzado: mhi3_minoria sobre GBPUSD
+2025-05-09 21:35:30,965 ERROR: [mhi3_minoria] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:35:30,965 INFO: [milhao_maioria] Iniciando análisis en GBPUSD, cada 60s
+2025-05-09 21:35:30,965 INFO: Worker lanzado: milhao_maioria sobre GBPUSD
+2025-05-09 21:35:30,965 ERROR: [milhao_maioria] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:35:30,973 INFO: [milhao_minoria] Iniciando análisis en GBPUSD, cada 60s
+2025-05-09 21:35:30,973 INFO: Worker lanzado: milhao_minoria sobre GBPUSD
+2025-05-09 21:35:30,981 ERROR: [milhao_minoria] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:35:30,981 INFO: [padrao_impar] Iniciando análisis en GBPUSD, cada 60s
+2025-05-09 21:35:30,981 INFO: Worker lanzado: padrao_impar sobre GBPUSD
+2025-05-09 21:35:30,981 ERROR: [padrao_impar] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:35:30,981 INFO: [melhor_de_3] Iniciando análisis en GBPUSD, cada 60s
+2025-05-09 21:35:30,981 INFO: Worker lanzado: melhor_de_3 sobre GBPUSD
+2025-05-09 21:35:30,981 ERROR: [melhor_de_3] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:35:30,981 INFO: [padrao_23] Iniciando análisis en GBPUSD, cada 60s
+2025-05-09 21:35:30,981 INFO: Worker lanzado: padrao_23 sobre GBPUSD
+2025-05-09 21:35:30,981 ERROR: [padrao_23] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:35:30,989 INFO: [turno_over] Iniciando análisis en GBPUSD, cada 60s
+2025-05-09 21:35:30,989 INFO: Worker lanzado: turno_over sobre GBPUSD
+2025-05-09 21:35:30,989 ERROR: [turno_over] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:35:30,998 INFO: [seven_flip] Iniciando análisis en GBPUSD, cada 60s
+2025-05-09 21:35:30,998 INFO: Worker lanzado: seven_flip sobre GBPUSD
+2025-05-09 21:35:30,998 ERROR: [seven_flip] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:35:30,998 INFO: [gaba] Iniciando análisis en GBPUSD, cada 60s
+2025-05-09 21:35:30,998 INFO: Worker lanzado: gaba sobre GBPUSD
+2025-05-09 21:35:30,998 ERROR: [gaba] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:35:30,998 INFO: [five_flip] Iniciando análisis en GBPUSD, cada 60s
+2025-05-09 21:35:30,998 INFO: Worker lanzado: five_flip sobre GBPUSD
+2025-05-09 21:35:31,006 ERROR: [five_flip] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:35:31,006 INFO: [reversao] Iniciando análisis en GBPUSD, cada 60s
+2025-05-09 21:35:31,006 INFO: Worker lanzado: reversao sobre GBPUSD
+2025-05-09 21:35:31,006 ERROR: [reversao] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:35:31,006 INFO: [tres_vizinhos] Iniciando análisis en GBPUSD, cada 60s
+2025-05-09 21:35:31,006 INFO: Worker lanzado: tres_vizinhos sobre GBPUSD
+2025-05-09 21:35:31,006 ERROR: [tres_vizinhos] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:35:31,006 INFO: [torres_gemeas] Iniciando análisis en GBPUSD, cada 60s
+2025-05-09 21:35:31,006 INFO: Worker lanzado: torres_gemeas sobre GBPUSD
+2025-05-09 21:35:31,014 ERROR: [torres_gemeas] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:35:31,014 INFO: [tres_mosqueteiros] Iniciando análisis en GBPUSD, cada 60s
+2025-05-09 21:35:31,014 INFO: Worker lanzado: tres_mosqueteiros sobre GBPUSD
+2025-05-09 21:35:31,014 ERROR: [tres_mosqueteiros] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:36:30,685 ERROR: [mhi1_maioria] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:36:30,694 ERROR: [mhi1_minoria] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:36:30,700 ERROR: [mhi2_maioria] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:36:30,709 ERROR: [mhi2_minoria] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:36:30,716 ERROR: [mhi3_maioria] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:36:30,728 ERROR: [mhi3_minoria] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:36:30,735 ERROR: [milhao_maioria] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:36:30,760 ERROR: [milhao_minoria] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:36:30,769 ERROR: [padrao_impar] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:36:30,775 ERROR: [melhor_de_3] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:36:30,783 ERROR: [padrao_23] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:36:30,801 ERROR: [turno_over] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:36:30,817 ERROR: [seven_flip] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:36:30,831 ERROR: [five_flip] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:36:30,839 ERROR: [gaba] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:36:30,856 ERROR: [reversao] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:36:30,889 ERROR: [tres_vizinhos] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:36:30,889 ERROR: [tres_mosqueteiros] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:36:30,891 ERROR: [torres_gemeas] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:36:30,907 ERROR: [mhi2_minoria] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:36:30,907 ERROR: [mhi3_maioria] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:36:30,907 ERROR: [mhi3_minoria] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:36:31,024 ERROR: [tres_vizinhos] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:36:30,907 ERROR: [milhao_minoria] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:36:30,907 ERROR: [mhi1_minoria] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:36:30,907 ERROR: [mhi2_maioria] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:36:30,915 ERROR: [mhi1_maioria] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:36:30,922 ERROR: [padrao_impar] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:36:30,939 ERROR: [seven_flip] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:36:30,939 ERROR: [gaba] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:36:30,946 ERROR: [turno_over] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:36:30,957 ERROR: [tres_mosqueteiros] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:36:30,968 ERROR: [mhi1_minoria] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:36:30,970 ERROR: [mhi3_maioria] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:36:30,970 ERROR: [five_flip] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:36:30,970 ERROR: [reversao] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:36:30,970 ERROR: [melhor_de_3] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:36:30,979 ERROR: [torres_gemeas] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:36:30,979 ERROR: [mhi1_maioria] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:36:30,986 ERROR: [padrao_23] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:36:30,986 ERROR: [mhi2_minoria] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:36:30,996 ERROR: [mhi3_minoria] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:36:30,996 ERROR: [mhi2_maioria] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:36:30,996 ERROR: [melhor_de_3] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:36:31,011 ERROR: [milhao_maioria] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:36:31,021 ERROR: [torres_gemeas] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:36:31,021 ERROR: [seven_flip] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:36:31,024 ERROR: [padrao_23] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:36:31,024 ERROR: [tres_vizinhos] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:36:31,024 ERROR: [five_flip] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:36:31,024 ERROR: [reversao] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:36:31,024 ERROR: [milhao_minoria] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:36:31,024 ERROR: [gaba] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:36:31,024 ERROR: [padrao_impar] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:36:30,907 ERROR: [milhao_maioria] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:36:31,024 ERROR: [tres_mosqueteiros] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:36:31,070 ERROR: [turno_over] Error en bucle de worker: get_historical_ohlcv() got an unexpected keyword argument 'since'
+2025-05-09 21:56:51,158 INFO: Cuenta configurada en REAL: modo REAL.
+2025-05-09 21:56:51,162 INFO: Configurando entorno...
+2025-05-09 21:57:02,706 INFO: Broker conectado en modo DEMO
+2025-05-09 21:57:02,706 INFO: [OHLCV] ThreadPoolExecutor usando 3 workers (pares=3, cpu=12, techo=8)
+2025-05-09 21:57:03,489 INFO: Latencia de get_candles: 0.78 segundos
+2025-05-09 21:57:03,500 INFO: Latencia de get_candles: 0.73 segundos
+2025-05-09 21:57:03,500 INFO: Latencia de get_candles: 0.78 segundos
+2025-05-09 21:57:03,756 INFO: [OHLCV] EURUSD -> 2 registros guardados en 1.05s
+2025-05-09 21:57:03,781 INFO: [OHLCV] USDJPY-OTC -> 2 registros guardados en 1.06s
+2025-05-09 21:57:03,795 INFO: [OHLCV] GBPUSD -> 2 registros guardados en 1.02s
+2025-05-09 21:57:03,831 INFO: [OHLCV] Ingesta completada en 1.13s para 3 pares.
+2025-05-09 21:57:03,831 INFO: Datos de mercado almacenados.
+2025-05-09 21:57:03,839 INFO: Ejecutando backtest del ensemble...
+2025-05-09 21:57:07,297 INFO: Backtest completado.
+2025-05-09 21:57:07,327 INFO: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-05-09 21:57:07,337 INFO: Added job "GAOptimizer.optimize" to job store "default"
+2025-05-09 21:57:07,337 INFO: Scheduler started
+2025-05-09 21:57:07,341 INFO: Scheduler GA iniciado.
+2025-05-09 21:57:07,343 INFO: Iniciando núcleo en tiempo real...
+2025-05-09 21:57:07,343 INFO: Arrancando AnimaCore en modo DEMO
+2025-05-09 21:57:10,439 INFO: Broker conectado en modo DEMO
+2025-05-09 21:57:10,543 WARNING: No se encontraron pesos optimizados; usando lógica estándar.
+2025-05-09 21:57:11,346 INFO: [mhi1_maioria] Iniciando análisis en EURUSD, cada 60s
+2025-05-09 21:57:11,346 INFO: Worker lanzado: mhi1_maioria sobre EURUSD
+2025-05-09 21:57:11,356 INFO: [mhi1_minoria] Iniciando análisis en EURUSD, cada 60s
+2025-05-09 21:57:11,356 INFO: Worker lanzado: mhi1_minoria sobre EURUSD
+2025-05-09 21:57:11,387 INFO: [mhi2_maioria] Iniciando análisis en EURUSD, cada 60s
+2025-05-09 21:57:11,387 INFO: Worker lanzado: mhi2_maioria sobre EURUSD
+2025-05-09 21:57:11,394 INFO: [mhi2_minoria] Iniciando análisis en EURUSD, cada 60s
+2025-05-09 21:57:11,394 INFO: Worker lanzado: mhi2_minoria sobre EURUSD
+2025-05-09 21:57:11,440 INFO: [mhi3_maioria] Iniciando análisis en EURUSD, cada 60s
+2025-05-09 21:57:11,440 INFO: Worker lanzado: mhi3_maioria sobre EURUSD
+2025-05-09 21:57:11,460 INFO: [mhi3_minoria] Iniciando análisis en EURUSD, cada 60s
+2025-05-09 21:57:11,460 INFO: Worker lanzado: mhi3_minoria sobre EURUSD
+2025-05-09 21:57:11,472 INFO: [milhao_maioria] Iniciando análisis en EURUSD, cada 60s
+2025-05-09 21:57:11,472 INFO: Worker lanzado: milhao_maioria sobre EURUSD
+2025-05-09 21:57:11,489 INFO: [milhao_minoria] Iniciando análisis en EURUSD, cada 60s
+2025-05-09 21:57:11,489 INFO: Worker lanzado: milhao_minoria sobre EURUSD
+2025-05-09 21:57:11,505 INFO: [padrao_impar] Iniciando análisis en EURUSD, cada 60s
+2025-05-09 21:57:11,510 INFO: Worker lanzado: padrao_impar sobre EURUSD
+2025-05-09 21:57:11,530 INFO: [melhor_de_3] Iniciando análisis en EURUSD, cada 60s
+2025-05-09 21:57:11,530 INFO: Worker lanzado: melhor_de_3 sobre EURUSD
+2025-05-09 21:57:11,545 INFO: [padrao_23] Iniciando análisis en EURUSD, cada 60s
+2025-05-09 21:57:11,546 INFO: Worker lanzado: padrao_23 sobre EURUSD
+2025-05-09 21:57:11,560 INFO: [turno_over] Iniciando análisis en EURUSD, cada 60s
+2025-05-09 21:57:11,560 INFO: Worker lanzado: turno_over sobre EURUSD
+2025-05-09 21:57:11,600 INFO: [seven_flip] Iniciando análisis en EURUSD, cada 60s
+2025-05-09 21:57:11,600 INFO: Worker lanzado: seven_flip sobre EURUSD
+2025-05-09 21:57:11,610 INFO: [gaba] Iniciando análisis en EURUSD, cada 60s
+2025-05-09 21:57:11,610 INFO: Worker lanzado: gaba sobre EURUSD
+2025-05-09 21:57:11,624 INFO: [five_flip] Iniciando análisis en EURUSD, cada 60s
+2025-05-09 21:57:11,624 INFO: Worker lanzado: five_flip sobre EURUSD
+2025-05-09 21:57:11,646 INFO: [reversao] Iniciando análisis en EURUSD, cada 60s
+2025-05-09 21:57:11,646 INFO: Worker lanzado: reversao sobre EURUSD
+2025-05-09 21:57:11,658 INFO: [tres_vizinhos] Iniciando análisis en EURUSD, cada 60s
+2025-05-09 21:57:11,658 INFO: Worker lanzado: tres_vizinhos sobre EURUSD
+2025-05-09 21:57:11,679 INFO: [torres_gemeas] Iniciando análisis en EURUSD, cada 60s
+2025-05-09 21:57:11,679 INFO: Worker lanzado: torres_gemeas sobre EURUSD
+2025-05-09 21:57:11,691 INFO: [tres_mosqueteiros] Iniciando análisis en EURUSD, cada 60s
+2025-05-09 21:57:11,691 INFO: Worker lanzado: tres_mosqueteiros sobre EURUSD
+2025-05-09 21:57:11,695 INFO: [mhi1_maioria] Iniciando análisis en USDJPY-OTC, cada 60s
+2025-05-09 21:57:11,695 INFO: Worker lanzado: mhi1_maioria sobre USDJPY-OTC
+2025-05-09 21:57:11,704 INFO: [mhi1_minoria] Iniciando análisis en USDJPY-OTC, cada 60s
+2025-05-09 21:57:11,704 INFO: Worker lanzado: mhi1_minoria sobre USDJPY-OTC
+2025-05-09 21:57:11,716 INFO: [mhi2_maioria] Iniciando análisis en USDJPY-OTC, cada 60s
+2025-05-09 21:57:11,716 INFO: Worker lanzado: mhi2_maioria sobre USDJPY-OTC
+2025-05-09 21:57:11,716 INFO: [mhi2_minoria] Iniciando análisis en USDJPY-OTC, cada 60s
+2025-05-09 21:57:11,722 INFO: Worker lanzado: mhi2_minoria sobre USDJPY-OTC
+2025-05-09 21:57:11,732 INFO: [mhi3_maioria] Iniciando análisis en USDJPY-OTC, cada 60s
+2025-05-09 21:57:11,732 INFO: Worker lanzado: mhi3_maioria sobre USDJPY-OTC
+2025-05-09 21:57:11,754 INFO: [mhi3_minoria] Iniciando análisis en USDJPY-OTC, cada 60s
+2025-05-09 21:57:11,754 INFO: Worker lanzado: mhi3_minoria sobre USDJPY-OTC
+2025-05-09 21:57:11,754 INFO: [milhao_maioria] Iniciando análisis en USDJPY-OTC, cada 60s
+2025-05-09 21:57:11,754 INFO: Worker lanzado: milhao_maioria sobre USDJPY-OTC
+2025-05-09 21:57:11,769 INFO: [milhao_minoria] Iniciando análisis en USDJPY-OTC, cada 60s
+2025-05-09 21:57:11,769 INFO: Worker lanzado: milhao_minoria sobre USDJPY-OTC
+2025-05-09 21:57:11,777 INFO: [padrao_impar] Iniciando análisis en USDJPY-OTC, cada 60s
+2025-05-09 21:57:11,777 INFO: Worker lanzado: padrao_impar sobre USDJPY-OTC
+2025-05-09 21:57:11,778 INFO: [melhor_de_3] Iniciando análisis en USDJPY-OTC, cada 60s
+2025-05-09 21:57:11,778 INFO: Worker lanzado: melhor_de_3 sobre USDJPY-OTC
+2025-05-09 21:57:11,787 INFO: [padrao_23] Iniciando análisis en USDJPY-OTC, cada 60s
+2025-05-09 21:57:11,787 INFO: Worker lanzado: padrao_23 sobre USDJPY-OTC
+2025-05-09 21:57:11,804 INFO: [turno_over] Iniciando análisis en USDJPY-OTC, cada 60s
+2025-05-09 21:57:11,804 INFO: Worker lanzado: turno_over sobre USDJPY-OTC
+2025-05-09 21:57:11,813 INFO: [seven_flip] Iniciando análisis en USDJPY-OTC, cada 60s
+2025-05-09 21:57:11,813 INFO: Worker lanzado: seven_flip sobre USDJPY-OTC
+2025-05-09 21:57:11,821 INFO: [gaba] Iniciando análisis en USDJPY-OTC, cada 60s
+2025-05-09 21:57:11,829 INFO: Worker lanzado: gaba sobre USDJPY-OTC
+2025-05-09 21:57:11,830 INFO: [five_flip] Iniciando análisis en USDJPY-OTC, cada 60s
+2025-05-09 21:57:11,830 INFO: Worker lanzado: five_flip sobre USDJPY-OTC
+2025-05-09 21:57:11,839 INFO: [reversao] Iniciando análisis en USDJPY-OTC, cada 60s
+2025-05-09 21:57:11,839 INFO: Worker lanzado: reversao sobre USDJPY-OTC
+2025-05-09 21:57:11,866 INFO: [tres_vizinhos] Iniciando análisis en USDJPY-OTC, cada 60s
+2025-05-09 21:57:11,866 INFO: Worker lanzado: tres_vizinhos sobre USDJPY-OTC
+2025-05-09 21:57:11,874 INFO: [torres_gemeas] Iniciando análisis en USDJPY-OTC, cada 60s
+2025-05-09 21:57:11,875 INFO: Worker lanzado: torres_gemeas sobre USDJPY-OTC
+2025-05-09 21:57:11,876 INFO: [tres_mosqueteiros] Iniciando análisis en USDJPY-OTC, cada 60s
+2025-05-09 21:57:11,876 INFO: Worker lanzado: tres_mosqueteiros sobre USDJPY-OTC
+2025-05-09 21:57:11,890 INFO: [mhi1_maioria] Iniciando análisis en GBPUSD, cada 60s
+2025-05-09 21:57:11,890 INFO: Worker lanzado: mhi1_maioria sobre GBPUSD
+2025-05-09 21:57:11,896 INFO: [mhi1_minoria] Iniciando análisis en GBPUSD, cada 60s
+2025-05-09 21:57:11,897 INFO: Worker lanzado: mhi1_minoria sobre GBPUSD
+2025-05-09 21:57:11,925 INFO: [mhi2_maioria] Iniciando análisis en GBPUSD, cada 60s
+2025-05-09 21:57:11,925 INFO: Worker lanzado: mhi2_maioria sobre GBPUSD
+2025-05-09 21:57:11,940 INFO: [mhi2_minoria] Iniciando análisis en GBPUSD, cada 60s
+2025-05-09 21:57:11,940 INFO: Worker lanzado: mhi2_minoria sobre GBPUSD
+2025-05-09 21:57:11,954 INFO: [mhi3_maioria] Iniciando análisis en GBPUSD, cada 60s
+2025-05-09 21:57:11,956 INFO: Worker lanzado: mhi3_maioria sobre GBPUSD
+2025-05-09 21:57:11,958 INFO: [mhi3_minoria] Iniciando análisis en GBPUSD, cada 60s
+2025-05-09 21:57:11,960 INFO: Worker lanzado: mhi3_minoria sobre GBPUSD
+2025-05-09 21:57:11,971 INFO: [milhao_maioria] Iniciando análisis en GBPUSD, cada 60s
+2025-05-09 21:57:11,971 INFO: Worker lanzado: milhao_maioria sobre GBPUSD
+2025-05-09 21:57:11,971 INFO: [milhao_minoria] Iniciando análisis en GBPUSD, cada 60s
+2025-05-09 21:57:11,971 INFO: Worker lanzado: milhao_minoria sobre GBPUSD
+2025-05-09 21:57:11,989 INFO: [padrao_impar] Iniciando análisis en GBPUSD, cada 60s
+2025-05-09 21:57:11,989 INFO: Worker lanzado: padrao_impar sobre GBPUSD
+2025-05-09 21:57:11,991 INFO: [melhor_de_3] Iniciando análisis en GBPUSD, cada 60s
+2025-05-09 21:57:11,991 INFO: Worker lanzado: melhor_de_3 sobre GBPUSD
+2025-05-09 21:57:12,002 INFO: [padrao_23] Iniciando análisis en GBPUSD, cada 60s
+2025-05-09 21:57:12,002 INFO: Worker lanzado: padrao_23 sobre GBPUSD
+2025-05-09 21:57:12,013 INFO: [turno_over] Iniciando análisis en GBPUSD, cada 60s
+2025-05-09 21:57:12,016 INFO: Worker lanzado: turno_over sobre GBPUSD
+2025-05-09 21:57:12,021 INFO: [seven_flip] Iniciando análisis en GBPUSD, cada 60s
+2025-05-09 21:57:12,021 INFO: Worker lanzado: seven_flip sobre GBPUSD
+2025-05-09 21:57:12,029 INFO: [gaba] Iniciando análisis en GBPUSD, cada 60s
+2025-05-09 21:57:12,029 INFO: Worker lanzado: gaba sobre GBPUSD
+2025-05-09 21:57:12,032 INFO: [five_flip] Iniciando análisis en GBPUSD, cada 60s
+2025-05-09 21:57:12,032 INFO: Worker lanzado: five_flip sobre GBPUSD
+2025-05-09 21:57:12,045 INFO: [reversao] Iniciando análisis en GBPUSD, cada 60s
+2025-05-09 21:57:12,046 INFO: Worker lanzado: reversao sobre GBPUSD
+2025-05-09 21:57:12,047 INFO: [tres_vizinhos] Iniciando análisis en GBPUSD, cada 60s
+2025-05-09 21:57:12,047 INFO: Worker lanzado: tres_vizinhos sobre GBPUSD
+2025-05-09 21:57:12,054 INFO: [torres_gemeas] Iniciando análisis en GBPUSD, cada 60s
+2025-05-09 21:57:12,054 INFO: Worker lanzado: torres_gemeas sobre GBPUSD
+2025-05-09 21:57:12,065 INFO: [tres_mosqueteiros] Iniciando análisis en GBPUSD, cada 60s
+2025-05-09 21:57:12,065 INFO: Worker lanzado: tres_mosqueteiros sobre GBPUSD
+2025-05-09 21:57:12,288 ERROR: [tres_vizinhos] Error al generar señal: get_historical_ohlcv() got an unexpected keyword argument 'limit'
+2025-05-09 21:57:13,472 ERROR: [tres_vizinhos] Error al generar señal: get_historical_ohlcv() got an unexpected keyword argument 'limit'
+2025-05-09 21:57:13,680 ERROR: [tres_vizinhos] Error al generar señal: get_historical_ohlcv() got an unexpected keyword argument 'limit'
+2025-05-09 21:57:13,740 ERROR: [tres_vizinhos] Error al generar señal: get_historical_ohlcv() got an unexpected keyword argument 'limit'
+2025-05-09 21:57:14,113 ERROR: [tres_vizinhos] Error al generar señal: get_historical_ohlcv() got an unexpected keyword argument 'limit'
+2025-05-09 21:57:14,323 ERROR: [tres_vizinhos] Error al generar señal: get_historical_ohlcv() got an unexpected keyword argument 'limit'
+2025-05-09 21:57:14,389 ERROR: [tres_vizinhos] Error al generar señal: get_historical_ohlcv() got an unexpected keyword argument 'limit'
+2025-05-09 21:57:14,710 ERROR: [tres_vizinhos] Error al generar señal: get_historical_ohlcv() got an unexpected keyword argument 'limit'
+2025-05-09 21:57:14,982 ERROR: [tres_vizinhos] Error al generar señal: get_historical_ohlcv() got an unexpected keyword argument 'limit'
+2025-05-09 21:57:15,237 ERROR: [tres_vizinhos] Error al generar señal: get_historical_ohlcv() got an unexpected keyword argument 'limit'
+2025-05-09 21:57:18,162 ERROR: [tres_vizinhos] Error al generar señal: get_historical_ohlcv() got an unexpected keyword argument 'limit'
+2025-05-09 21:57:20,813 ERROR: [tres_vizinhos] Error al generar señal: get_historical_ohlcv() got an unexpected keyword argument 'limit'
+2025-05-09 21:57:20,945 ERROR: [tres_vizinhos] Error al generar señal: get_historical_ohlcv() got an unexpected keyword argument 'limit'
+2025-05-09 21:57:22,560 ERROR: [tres_vizinhos] Error al generar señal: get_historical_ohlcv() got an unexpected keyword argument 'limit'
+2025-05-09 21:57:23,492 ERROR: [tres_vizinhos] Error al generar señal: get_historical_ohlcv() got an unexpected keyword argument 'limit'
+2025-05-09 21:57:24,344 ERROR: [tres_vizinhos] Error al generar señal: get_historical_ohlcv() got an unexpected keyword argument 'limit'
+2025-05-09 21:57:25,730 ERROR: [tres_vizinhos] Error al generar señal: get_historical_ohlcv() got an unexpected keyword argument 'limit'
+2025-05-09 21:57:26,280 ERROR: [tres_vizinhos] Error al generar señal: get_historical_ohlcv() got an unexpected keyword argument 'limit'
+2025-05-09 21:57:27,843 ERROR: [tres_vizinhos] Error al generar señal: get_historical_ohlcv() got an unexpected keyword argument 'limit'
+2025-05-09 21:57:30,292 ERROR: [tres_vizinhos] Error al generar señal: get_historical_ohlcv() got an unexpected keyword argument 'limit'
+2025-05-09 21:57:33,155 ERROR: [tres_vizinhos] Error al generar señal: get_historical_ohlcv() got an unexpected keyword argument 'limit'
+2025-05-09 21:57:36,047 ERROR: [tres_vizinhos] Error al generar señal: get_historical_ohlcv() got an unexpected keyword argument 'limit'
+2025-05-09 21:57:38,825 ERROR: [tres_vizinhos] Error al generar señal: get_historical_ohlcv() got an unexpected keyword argument 'limit'
+2025-05-09 21:57:41,107 ERROR: [tres_vizinhos] Error al generar señal: get_historical_ohlcv() got an unexpected keyword argument 'limit'
+2025-05-09 21:57:42,774 ERROR: [tres_vizinhos] Error al generar señal: get_historical_ohlcv() got an unexpected keyword argument 'limit'
+2025-05-09 21:57:44,375 ERROR: [tres_vizinhos] Error al generar señal: get_historical_ohlcv() got an unexpected keyword argument 'limit'
+2025-05-09 21:57:45,523 ERROR: [tres_vizinhos] Error al generar señal: get_historical_ohlcv() got an unexpected keyword argument 'limit'
+2025-05-09 21:57:46,563 ERROR: [tres_vizinhos] Error al generar señal: get_historical_ohlcv() got an unexpected keyword argument 'limit'
+2025-05-09 21:57:46,655 ERROR: [tres_vizinhos] Error al generar señal: get_historical_ohlcv() got an unexpected keyword argument 'limit'
+2025-05-09 21:57:47,704 ERROR: [tres_vizinhos] Error al generar señal: get_historical_ohlcv() got an unexpected keyword argument 'limit'
+2025-05-09 21:57:48,291 ERROR: [tres_vizinhos] Error al generar señal: get_historical_ohlcv() got an unexpected keyword argument 'limit'
+2025-05-09 21:57:49,234 ERROR: [tres_vizinhos] Error al generar señal: get_historical_ohlcv() got an unexpected keyword argument 'limit'
+2025-05-09 21:57:49,473 ERROR: [tres_vizinhos] Error al generar señal: get_historical_ohlcv() got an unexpected keyword argument 'limit'
+2025-05-09 21:57:50,007 ERROR: [tres_vizinhos] Error al generar señal: get_historical_ohlcv() got an unexpected keyword argument 'limit'

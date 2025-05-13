@@ -1,0 +1,103 @@
+mercado:
+  par: "EURUSD"
+  timeframe: "1m"
+  minutos: 60
+autoconsciencia:
+  adaptacion_niveles: false
+  max_derrotas_consecutivas: 4
+  max_drawdown: 250
+  suspender_si_riesgo: true
+credenciales:
+  email: emmanuel.arias1998@gmail.com
+  password: Francisco0401
+  demo: true
+duracion: 1
+end_date: '2025-04-23'
+estrategias:
+  - nombre: "mhi1_maioria"
+    params:
+      window: 3
+  - nombre: "mhi1_minoria"
+    params:
+      window: 3
+  - nombre: "mhi2_maioria"
+    params:
+      window: 5
+  - nombre: "mhi2_minoria"
+    params:
+      window: 5
+  - nombre: "mhi3_maioria"
+    params:
+      window: 8
+  - nombre: "mhi3_minoria"
+    params:
+      window: 8
+  - nombre: "milhao_maioria"
+    params:
+      window: 10
+  - nombre: "milhao_minoria"
+    params:
+      window: 10
+  - nombre: "padrao_impar"
+    params:
+      window: 5
+  - nombre: "melhor_de_3"
+    params:
+      window: 3
+  - nombre: "padrao_23"
+    params:
+      window: 5
+  - nombre: "turno_over"
+    params: {}
+  - nombre: "seven_flip"
+    params:
+      window: 7
+  - nombre: "gaba"
+    params:
+      body_threshold: 0.1
+      wick_multiplier: 2
+  - nombre: "five_flip"
+    params:
+      window: 5
+  - nombre: "reversao"
+    params:
+      gap_threshold: 0.001
+      body_threshold: 0.8
+  - nombre: "tres_vizinhos"
+    params:
+      peers:
+        - "EURUSD"
+        - "USDJPY-OTC"
+        - "GBPUSD"
+      timeframe: "1m"
+  - nombre: "torres_gemeas"
+    params:
+      window: 3
+  - nombre: "tres_mosqueteiros"
+    params: {}
+martingala:
+  niveles:
+  - 25
+  - 50
+  - 100
+  - 200
+  stop_loss: 5
+  stop_win: 50
+pairs:
+- EURUSD
+- USDJPY-OTC
+- GBPUSD
+payout: 0.8
+start_date: '2024-04-01'
+ping_interval: 10
+worker_error_threshold: 5
+worker_pause_duration: 60
+watchdog_fail_threshold: 3
+watchdog_pause_duration: 60
+ga:
+  population_size: 20       # Tamaño de la población GA
+  generations:      10      # Número de generaciones
+  mutation_rate:    0.1     # Tasa de mutación (0.0–1.0)
+  schedule:                # Horario para el scheduler
+    hour:   2              # Hora local (0–23)
+    minute: 0              # Minuto (0–59)

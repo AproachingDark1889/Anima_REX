@@ -1,0 +1,79 @@
+[2025-04-23 12:41:03,191] [WARNING] No se encontraron pesos optimizados. Se usará lógica estándar.
+[2025-04-23 12:41:03,201] [INFO] [TRADE] EURUSD CALL monto=25 res=WIN balance=1000.00
+[2025-04-23 12:41:03,207] [INFO] [TRADE] EURUSD CALL monto=25 res=WIN balance=1000.00
+[2025-04-23 12:41:03,214] [INFO] [TRADE] EURUSD CALL monto=25 res=WIN balance=1000.00
+[2025-04-23 12:41:03,222] [INFO] [TRADE] EURUSD CALL monto=25 res=WIN balance=1000.00
+[2025-04-23 12:41:03,228] [INFO] [TRADE] EURUSD CALL monto=25 res=WIN balance=1000.00
+[2025-04-23 18:01:37,479] [WARNING] No se encontraron pesos optimizados. Se usará lógica estándar.
+[2025-04-23 18:01:45,217] [INFO] Worker lanzado: mhi1_maioria sobre EURUSD
+[2025-04-23 18:01:48,256] [INFO] Worker lanzado: mhi1_minoria sobre EURUSD
+[2025-04-23 18:01:50,195] [INFO] Worker lanzado: mhi2_maioria sobre EURUSD
+[2025-04-23 18:01:53,347] [INFO] Worker lanzado: mhi2_minoria sobre EURUSD
+[2025-04-23 18:01:56,958] [INFO] Worker lanzado: mhi3_maioria sobre EURUSD
+[2025-04-23 18:02:03,134] [INFO] Worker lanzado: mhi3_minoria sobre EURUSD
+[2025-04-23 18:02:16,209] [INFO] Worker lanzado: milhao_maioria sobre EURUSD
+[2025-04-23 18:02:29,794] [INFO] Worker lanzado: milhao_minoria sobre EURUSD
+[2025-04-23 18:02:36,675] [INFO] Worker lanzado: padrao_impar sobre EURUSD
+[2025-04-23 18:02:41,727] [INFO] Worker lanzado: melhor_de_3 sobre EURUSD
+[2025-04-23 18:02:45,569] [INFO] Worker lanzado: padrao_23 sobre EURUSD
+[2025-04-23 18:02:52,909] [INFO] Worker lanzado: turno_over sobre EURUSD
+[2025-04-23 18:03:00,550] [INFO] Worker lanzado: seven_flip sobre EURUSD
+[2025-04-23 18:03:14,931] [INFO] Worker lanzado: gaba sobre EURUSD
+[2025-04-23 18:03:23,902] [INFO] Worker lanzado: five_flip sobre EURUSD
+[2025-04-23 18:03:30,526] [INFO] Worker lanzado: reversao sobre EURUSD
+[2025-04-23 18:03:37,451] [INFO] Worker lanzado: tres_vizinhos sobre EURUSD
+[2025-04-23 18:03:48,302] [INFO] Worker lanzado: torres_gemeas sobre EURUSD
+[2025-04-23 18:03:53,947] [INFO] Worker lanzado: tres_mosqueteiros sobre EURUSD
+[2025-04-23 18:03:58,266] [INFO] Worker lanzado: mhi1_maioria sobre USDJPY-OTC
+[2025-04-23 18:04:02,880] [INFO] Worker lanzado: mhi1_minoria sobre USDJPY-OTC
+[2025-04-23 18:04:08,110] [INFO] Worker lanzado: mhi2_maioria sobre USDJPY-OTC
+[2025-04-23 18:04:11,932] [INFO] Worker lanzado: mhi2_minoria sobre USDJPY-OTC
+[2025-04-23 18:04:18,521] [WARNING] Ping fallido: 'NoneType' object is not subscriptable
+[2025-04-23 18:04:18,665] [INFO] Worker lanzado: mhi3_maioria sobre USDJPY-OTC
+[2025-04-23 18:04:29,567] [INFO] Worker lanzado: mhi3_minoria sobre USDJPY-OTC
+[2025-04-23 18:04:39,491] [INFO] Worker lanzado: milhao_maioria sobre USDJPY-OTC
+[2025-04-23 18:04:44,801] [INFO] Worker lanzado: milhao_minoria sobre USDJPY-OTC
+[2025-04-23 18:04:45,822] [INFO] Worker lanzado: padrao_impar sobre USDJPY-OTC
+[2025-04-23 18:04:50,920] [INFO] Worker lanzado: melhor_de_3 sobre USDJPY-OTC
+[2025-04-23 18:04:54,985] [INFO] Worker lanzado: padrao_23 sobre USDJPY-OTC
+[2025-04-23 18:05:01,027] [INFO] Worker lanzado: turno_over sobre USDJPY-OTC
+[2025-04-23 18:05:08,410] [INFO] Worker lanzado: seven_flip sobre USDJPY-OTC
+[2025-04-23 18:05:11,248] [INFO] Worker lanzado: gaba sobre USDJPY-OTC
+[2025-04-23 18:05:24,520] [WARNING] Ping fallido: 'NoneType' object is not subscriptable
+[2025-04-23 18:05:24,873] [INFO] Worker lanzado: five_flip sobre USDJPY-OTC
+[2025-04-23 18:05:36,843] [INFO] Worker lanzado: reversao sobre USDJPY-OTC
+[2025-04-23 18:05:43,381] [INFO] Worker lanzado: tres_vizinhos sobre USDJPY-OTC
+[2025-04-23 18:05:52,489] [INFO] Worker lanzado: torres_gemeas sobre USDJPY-OTC
+[2025-04-23 18:05:55,124] [INFO] Worker lanzado: tres_mosqueteiros sobre USDJPY-OTC
+[2025-04-23 18:05:57,662] [INFO] Worker lanzado: mhi1_maioria sobre GBPUSD
+[2025-04-23 18:06:01,477] [INFO] Worker lanzado: mhi1_minoria sobre GBPUSD
+[2025-04-23 18:33:09,711] [WARNING] No se encontraron pesos optimizados; usando lógica estándar.
+[2025-04-23 18:33:20,244] [INFO] Worker lanzado: mhi1_maioria sobre EURUSD
+[2025-04-23 18:33:22,353] [INFO] Worker lanzado: mhi1_minoria sobre EURUSD
+[2025-04-23 18:33:24,430] [INFO] Worker lanzado: mhi2_maioria sobre EURUSD
+[2025-04-23 18:33:26,908] [INFO] Worker lanzado: mhi2_minoria sobre EURUSD
+[2025-04-23 18:33:31,121] [INFO] Worker lanzado: mhi3_maioria sobre EURUSD
+[2025-04-23 18:33:34,039] [INFO] Worker lanzado: mhi3_minoria sobre EURUSD
+[2025-04-23 18:33:36,503] [INFO] Worker lanzado: milhao_maioria sobre EURUSD
+[2025-04-23 18:33:44,880] [INFO] Worker lanzado: milhao_minoria sobre EURUSD
+[2025-04-23 18:33:53,135] [INFO] Worker lanzado: padrao_impar sobre EURUSD
+[2025-04-23 18:33:57,238] [INFO] Worker lanzado: melhor_de_3 sobre EURUSD
+[2025-04-23 18:34:01,830] [INFO] Worker lanzado: padrao_23 sobre EURUSD
+[2025-04-23 18:34:07,059] [INFO] Worker lanzado: turno_over sobre EURUSD
+[2025-04-23 18:34:11,866] [INFO] Worker lanzado: seven_flip sobre EURUSD
+[2025-04-23 18:34:24,808] [INFO] Worker lanzado: gaba sobre EURUSD
+[2025-04-23 18:34:37,053] [INFO] Worker lanzado: five_flip sobre EURUSD
+[2025-04-23 18:34:52,140] [INFO] Worker lanzado: reversao sobre EURUSD
+[2025-04-23 18:35:03,339] [INFO] Worker lanzado: tres_vizinhos sobre EURUSD
+[2025-04-23 18:35:14,154] [INFO] Worker lanzado: torres_gemeas sobre EURUSD
+[2025-04-23 18:35:25,515] [WARNING] Ping fallido: 'NoneType' object is not subscriptable; reconectando broker...
+[2025-04-23 18:35:28,604] [INFO] Worker lanzado: tres_mosqueteiros sobre EURUSD
+[2025-04-23 18:35:35,004] [INFO] Worker lanzado: mhi1_maioria sobre USDJPY-OTC
+[2025-04-23 18:35:38,915] [ERROR] Fallo reconexión en keep-alive: socket is already closed.
+[2025-04-23 18:35:40,953] [INFO] Worker lanzado: mhi1_minoria sobre USDJPY-OTC
+[2025-04-23 18:35:50,010] [INFO] Worker lanzado: mhi2_maioria sobre USDJPY-OTC
+[2025-04-23 18:35:58,250] [INFO] Worker lanzado: mhi2_minoria sobre USDJPY-OTC
+[2025-04-23 18:36:02,246] [WARNING] Ping fallido: Connection is already closed.; reconectando broker...
+[2025-04-23 18:36:06,720] [ERROR] Fallo reconexión en keep-alive: Connection is already closed.
+[2025-04-23 18:36:06,922] [INFO] Worker lanzado: mhi3_maioria sobre USDJPY-OTC
+[2025-04-23 18:36:33,629] [WARNING] Ping fallido: list indices must be integers or slices, not str; reconectando broker...

@@ -1,0 +1,6 @@
+[2025-05-01 12:04:58,514] [WARNING] Watchdog detectó desconexión: [WinError 10053] Se ha anulado una conexión establecida por el software en su equipo host
+[2025-05-01 12:04:59,176] [WARNING] Intentando reconectar sesión...
+[2025-05-01 12:05:14,800] [INFO] Reconexión ejecutada.
+[2025-05-01 13:00:02,347] [WARNING] Watchdog detectó desconexión: EOF occurred in violation of protocol (_ssl.c:2427)
+[2025-05-01 13:00:03,214] [WARNING] Intentando reconectar sesión...
+[2025-05-01 13:00:10,856] [INFO] Reconexión ejecutada.

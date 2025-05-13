@@ -1,0 +1,12 @@
+[1969-12-31 18:16:40,000] [INFO] [OHLCV] Descargando AAA 5m (10 min)
+[1969-12-31 18:16:40,000] [INFO] [OHLCV] Completado para AAA 5m
+[1969-12-31 18:33:20,000] [INFO] [OHLCV] Descargando CCC 15m (2 min)
+[1969-12-31 18:33:20,000] [INFO] [OHLCV] Completado para CCC 15m
+[2025-05-12 03:03:25,955] [INFO] [OHLCV] Descargando EURUSD 1m (60 min)
+[2025-05-12 03:03:25,955] [ERROR] Error en fetch_and_persist_ohlcv
+Traceback (most recent call last):
+  File "C:\Users\FRANCISCO ARIAS\OneDrive - Asesoría Limac sa de cv\Escritorio\Anima_REX\data_utils.py", line 54, in fetch_and_persist_ohlcv
+    data_manager.fetch_and_store(
+  File "C:\Users\FRANCISCO ARIAS\OneDrive - Asesoría Limac sa de cv\Escritorio\Anima_REX\tests\test_metrics_data_utils.py", line 21, in fetch_and_store
+    raise RuntimeError("simulated failure")
+RuntimeError: simulated failure

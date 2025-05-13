@@ -1,0 +1,417 @@
+[2025-05-12 01:00:22,494] [WARNING] No se encontraron pesos optimizados; usando lógica estándar.
+[2025-05-12 03:11:08,862] [WARNING] No se encontraron pesos optimizados; usando lógica estándar.
+[2025-05-12 03:12:31,832] [WARNING] No se encontraron pesos optimizados; usando lógica estándar.
+[2025-05-12 03:12:32,384] [ERROR] Error en ejecutar_nucleo_tiempo_real
+Traceback (most recent call last):
+  File "C:\Users\FRANCISCO ARIAS\OneDrive - Asesoría Limac sa de cv\Escritorio\Anima_REX\core\anima_core.py", line 150, in ejecutar_nucleo_tiempo_real
+    self.rl_env.set_ensemble(
+  File "C:\Users\FRANCISCO ARIAS\OneDrive - Asesoría Limac sa de cv\Escritorio\Anima_REX\anima_rl_agent.py", line 100, in set_ensemble
+    dir_up = direction.upper() == 'CALL'
+             ^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'upper'
+[2025-05-12 03:15:00,934] [WARNING] No se encontraron pesos optimizados; usando lógica estándar.
+[2025-05-12 03:15:00,937] [ERROR] Error en ejecutar_nucleo_tiempo_real
+Traceback (most recent call last):
+  File "C:\Users\FRANCISCO ARIAS\OneDrive - Asesoría Limac sa de cv\Escritorio\Anima_REX\core\anima_core.py", line 150, in ejecutar_nucleo_tiempo_real
+    self.rl_env.set_ensemble(
+  File "C:\Users\FRANCISCO ARIAS\OneDrive - Asesoría Limac sa de cv\Escritorio\Anima_REX\anima_rl_agent.py", line 100, in set_ensemble
+    dir_up = direction.upper() == 'CALL'
+             ^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'upper'
+[2025-05-12 03:17:27,250] [WARNING] No se encontraron pesos optimizados; usando lógica estándar.
+[2025-05-12 03:17:27,255] [ERROR] Error registro RL métrica: db fail
+[2025-05-12 03:23:05,623] [WARNING] No se encontraron pesos optimizados; usando lógica estándar.
+[2025-05-12 03:23:05,624] [ERROR] Error registro RL métrica: db fail
+[2025-05-12 11:29:22,714] [WARNING] No se encontraron pesos optimizados; usando lógica estándar.
+[2025-05-12 11:29:23,136] [INFO] Worker lanzado: mhi1_maioria sobre EURUSD
+[2025-05-12 11:29:23,173] [INFO] Worker lanzado: mhi1_minoria sobre EURUSD
+[2025-05-12 11:29:23,252] [INFO] Worker lanzado: mhi2_maioria sobre EURUSD
+[2025-05-12 11:29:23,270] [INFO] Worker lanzado: mhi2_minoria sobre EURUSD
+[2025-05-12 11:29:23,336] [INFO] Worker lanzado: mhi3_maioria sobre EURUSD
+[2025-05-12 11:29:23,357] [INFO] Worker lanzado: mhi3_minoria sobre EURUSD
+[2025-05-12 11:29:23,386] [INFO] Worker lanzado: milhao_maioria sobre EURUSD
+[2025-05-12 11:29:23,405] [INFO] Worker lanzado: milhao_minoria sobre EURUSD
+[2025-05-12 11:29:23,462] [INFO] Worker lanzado: padrao_impar sobre EURUSD
+[2025-05-12 11:29:23,469] [INFO] Worker lanzado: melhor_de_3 sobre EURUSD
+[2025-05-12 11:29:23,503] [INFO] Worker lanzado: padrao_23 sobre EURUSD
+[2025-05-12 11:29:23,533] [INFO] Worker lanzado: turno_over sobre EURUSD
+[2025-05-12 11:29:23,553] [INFO] Worker lanzado: seven_flip sobre EURUSD
+[2025-05-12 11:29:23,574] [INFO] Worker lanzado: gaba sobre EURUSD
+[2025-05-12 11:29:23,662] [INFO] Worker lanzado: five_flip sobre EURUSD
+[2025-05-12 11:29:23,687] [INFO] Worker lanzado: reversao sobre EURUSD
+[2025-05-12 11:29:23,796] [INFO] Worker lanzado: tres_vizinhos sobre EURUSD
+[2025-05-12 11:29:23,898] [INFO] Worker lanzado: torres_gemeas sobre EURUSD
+[2025-05-12 11:29:23,923] [INFO] Worker lanzado: tres_mosqueteiros sobre EURUSD
+[2025-05-12 11:29:23,929] [INFO] Worker lanzado: mhi1_maioria sobre USDJPY-OTC
+[2025-05-12 11:29:23,929] [INFO] Worker lanzado: mhi1_minoria sobre USDJPY-OTC
+[2025-05-12 11:29:23,930] [INFO] Worker lanzado: mhi2_maioria sobre USDJPY-OTC
+[2025-05-12 11:29:23,931] [INFO] Worker lanzado: mhi2_minoria sobre USDJPY-OTC
+[2025-05-12 11:29:23,936] [INFO] Worker lanzado: mhi3_maioria sobre USDJPY-OTC
+[2025-05-12 11:29:23,949] [INFO] Worker lanzado: mhi3_minoria sobre USDJPY-OTC
+[2025-05-12 11:29:23,949] [INFO] Worker lanzado: milhao_maioria sobre USDJPY-OTC
+[2025-05-12 11:29:23,950] [INFO] Worker lanzado: milhao_minoria sobre USDJPY-OTC
+[2025-05-12 11:29:23,951] [INFO] Worker lanzado: padrao_impar sobre USDJPY-OTC
+[2025-05-12 11:29:23,953] [INFO] Worker lanzado: melhor_de_3 sobre USDJPY-OTC
+[2025-05-12 11:29:23,960] [INFO] Worker lanzado: padrao_23 sobre USDJPY-OTC
+[2025-05-12 11:29:23,979] [INFO] Worker lanzado: turno_over sobre USDJPY-OTC
+[2025-05-12 11:29:23,980] [INFO] Worker lanzado: seven_flip sobre USDJPY-OTC
+[2025-05-12 11:29:23,981] [INFO] Worker lanzado: gaba sobre USDJPY-OTC
+[2025-05-12 11:29:23,982] [INFO] Worker lanzado: five_flip sobre USDJPY-OTC
+[2025-05-12 11:29:23,986] [INFO] Worker lanzado: reversao sobre USDJPY-OTC
+[2025-05-12 11:29:24,006] [INFO] Worker lanzado: tres_vizinhos sobre USDJPY-OTC
+[2025-05-12 11:29:24,020] [INFO] Worker lanzado: torres_gemeas sobre USDJPY-OTC
+[2025-05-12 11:29:24,022] [INFO] Worker lanzado: tres_mosqueteiros sobre USDJPY-OTC
+[2025-05-12 11:29:24,023] [INFO] Worker lanzado: mhi1_maioria sobre GBPUSD
+[2025-05-12 11:29:24,028] [INFO] Worker lanzado: mhi1_minoria sobre GBPUSD
+[2025-05-12 11:29:24,039] [INFO] Worker lanzado: mhi2_maioria sobre GBPUSD
+[2025-05-12 11:29:24,041] [INFO] Worker lanzado: mhi2_minoria sobre GBPUSD
+[2025-05-12 11:29:24,043] [INFO] Worker lanzado: mhi3_maioria sobre GBPUSD
+[2025-05-12 11:29:24,045] [INFO] Worker lanzado: mhi3_minoria sobre GBPUSD
+[2025-05-12 11:29:24,047] [INFO] Worker lanzado: milhao_maioria sobre GBPUSD
+[2025-05-12 11:29:24,050] [INFO] Worker lanzado: milhao_minoria sobre GBPUSD
+[2025-05-12 11:29:24,056] [INFO] Worker lanzado: padrao_impar sobre GBPUSD
+[2025-05-12 11:29:24,071] [INFO] Worker lanzado: melhor_de_3 sobre GBPUSD
+[2025-05-12 11:29:24,073] [INFO] Worker lanzado: padrao_23 sobre GBPUSD
+[2025-05-12 11:29:24,075] [INFO] Worker lanzado: turno_over sobre GBPUSD
+[2025-05-12 11:29:24,077] [INFO] Worker lanzado: seven_flip sobre GBPUSD
+[2025-05-12 11:29:24,081] [INFO] Worker lanzado: gaba sobre GBPUSD
+[2025-05-12 11:29:24,084] [INFO] Worker lanzado: five_flip sobre GBPUSD
+[2025-05-12 11:29:24,087] [INFO] Worker lanzado: reversao sobre GBPUSD
+[2025-05-12 11:29:24,099] [INFO] Worker lanzado: tres_vizinhos sobre GBPUSD
+[2025-05-12 11:29:24,104] [INFO] Worker lanzado: torres_gemeas sobre GBPUSD
+[2025-05-12 11:29:24,106] [INFO] Worker lanzado: tres_mosqueteiros sobre GBPUSD
+[2025-05-12 11:29:36,271] [ERROR] Fallo en broker.comprar para EURUSD PUT
+[2025-05-12 11:29:42,549] [ERROR] Fallo en broker.comprar para EURUSD CALL
+[2025-05-12 11:29:45,091] [ERROR] Fallo en broker.comprar para USDJPY-OTC CALL
+[2025-05-12 11:29:47,640] [ERROR] Fallo en broker.comprar para USDJPY-OTC PUT
+[2025-05-12 11:29:50,942] [ERROR] Fallo en broker.comprar para USDJPY-OTC PUT
+[2025-05-12 11:29:57,002] [ERROR] Fallo en broker.comprar para GBPUSD CALL
+[2025-05-12 11:30:02,662] [ERROR] Fallo en broker.comprar para GBPUSD PUT
+[2025-05-12 11:30:30,344] [ERROR] Fallo en broker.comprar para EURUSD PUT
+[2025-05-12 11:30:36,387] [ERROR] Fallo en broker.comprar para EURUSD PUT
+[2025-05-12 11:30:42,707] [ERROR] Fallo en broker.comprar para EURUSD PUT
+[2025-05-12 11:30:45,022] [ERROR] Fallo en broker.comprar para USDJPY-OTC PUT
+[2025-05-12 11:40:29,594] [WARNING] No se encontraron pesos optimizados; usando lógica estándar.
+[2025-05-12 11:40:29,762] [INFO] Worker lanzado: mhi1_maioria sobre EURUSD
+[2025-05-12 11:40:29,770] [INFO] Worker lanzado: mhi1_minoria sobre EURUSD
+[2025-05-12 11:40:29,785] [INFO] Worker lanzado: mhi2_maioria sobre EURUSD
+[2025-05-12 11:40:29,786] [INFO] Worker lanzado: mhi2_minoria sobre EURUSD
+[2025-05-12 11:40:29,788] [INFO] Worker lanzado: mhi3_maioria sobre EURUSD
+[2025-05-12 11:40:29,803] [INFO] Worker lanzado: mhi3_minoria sobre EURUSD
+[2025-05-12 11:40:29,808] [INFO] Worker lanzado: milhao_maioria sobre EURUSD
+[2025-05-12 11:40:29,811] [INFO] Worker lanzado: milhao_minoria sobre EURUSD
+[2025-05-12 11:40:29,826] [INFO] Worker lanzado: padrao_impar sobre EURUSD
+[2025-05-12 11:40:29,827] [INFO] Worker lanzado: melhor_de_3 sobre EURUSD
+[2025-05-12 11:40:29,830] [INFO] Worker lanzado: padrao_23 sobre EURUSD
+[2025-05-12 11:40:29,882] [INFO] Worker lanzado: turno_over sobre EURUSD
+[2025-05-12 11:40:29,884] [INFO] Worker lanzado: seven_flip sobre EURUSD
+[2025-05-12 11:40:29,887] [INFO] Worker lanzado: gaba sobre EURUSD
+[2025-05-12 11:40:29,941] [INFO] Worker lanzado: five_flip sobre EURUSD
+[2025-05-12 11:40:29,951] [INFO] Worker lanzado: reversao sobre EURUSD
+[2025-05-12 11:40:30,048] [INFO] Worker lanzado: tres_vizinhos sobre EURUSD
+[2025-05-12 11:40:30,051] [INFO] Worker lanzado: torres_gemeas sobre EURUSD
+[2025-05-12 11:40:30,087] [INFO] Worker lanzado: tres_mosqueteiros sobre EURUSD
+[2025-05-12 11:40:30,090] [INFO] Worker lanzado: mhi1_maioria sobre USDJPY-OTC
+[2025-05-12 11:40:30,098] [INFO] Worker lanzado: mhi1_minoria sobre USDJPY-OTC
+[2025-05-12 11:40:30,099] [INFO] Worker lanzado: mhi2_maioria sobre USDJPY-OTC
+[2025-05-12 11:40:30,100] [INFO] Worker lanzado: mhi2_minoria sobre USDJPY-OTC
+[2025-05-12 11:40:30,101] [INFO] Worker lanzado: mhi3_maioria sobre USDJPY-OTC
+[2025-05-12 11:40:30,103] [INFO] Worker lanzado: mhi3_minoria sobre USDJPY-OTC
+[2025-05-12 11:40:30,116] [INFO] Worker lanzado: milhao_maioria sobre USDJPY-OTC
+[2025-05-12 11:40:30,118] [INFO] Worker lanzado: milhao_minoria sobre USDJPY-OTC
+[2025-05-12 11:40:30,119] [INFO] Worker lanzado: padrao_impar sobre USDJPY-OTC
+[2025-05-12 11:40:30,121] [INFO] Worker lanzado: melhor_de_3 sobre USDJPY-OTC
+[2025-05-12 11:40:30,122] [INFO] Worker lanzado: padrao_23 sobre USDJPY-OTC
+[2025-05-12 11:40:30,132] [INFO] Worker lanzado: turno_over sobre USDJPY-OTC
+[2025-05-12 11:40:30,133] [INFO] Worker lanzado: seven_flip sobre USDJPY-OTC
+[2025-05-12 11:40:30,136] [INFO] Worker lanzado: gaba sobre USDJPY-OTC
+[2025-05-12 11:40:30,148] [INFO] Worker lanzado: five_flip sobre USDJPY-OTC
+[2025-05-12 11:40:30,149] [INFO] Worker lanzado: reversao sobre USDJPY-OTC
+[2025-05-12 11:40:30,150] [INFO] Worker lanzado: tres_vizinhos sobre USDJPY-OTC
+[2025-05-12 11:40:30,151] [INFO] Worker lanzado: torres_gemeas sobre USDJPY-OTC
+[2025-05-12 11:40:30,152] [INFO] Worker lanzado: tres_mosqueteiros sobre USDJPY-OTC
+[2025-05-12 11:40:30,153] [INFO] Worker lanzado: mhi1_maioria sobre GBPUSD
+[2025-05-12 11:40:30,156] [INFO] Worker lanzado: mhi1_minoria sobre GBPUSD
+[2025-05-12 11:40:30,159] [INFO] Worker lanzado: mhi2_maioria sobre GBPUSD
+[2025-05-12 11:40:30,167] [INFO] Worker lanzado: mhi2_minoria sobre GBPUSD
+[2025-05-12 11:40:30,168] [INFO] Worker lanzado: mhi3_maioria sobre GBPUSD
+[2025-05-12 11:40:30,169] [INFO] Worker lanzado: mhi3_minoria sobre GBPUSD
+[2025-05-12 11:40:30,170] [INFO] Worker lanzado: milhao_maioria sobre GBPUSD
+[2025-05-12 11:40:30,172] [INFO] Worker lanzado: milhao_minoria sobre GBPUSD
+[2025-05-12 11:40:30,188] [INFO] Worker lanzado: padrao_impar sobre GBPUSD
+[2025-05-12 11:40:30,192] [INFO] Worker lanzado: melhor_de_3 sobre GBPUSD
+[2025-05-12 11:40:30,196] [INFO] Worker lanzado: padrao_23 sobre GBPUSD
+[2025-05-12 11:40:30,199] [INFO] Worker lanzado: turno_over sobre GBPUSD
+[2025-05-12 11:40:30,202] [INFO] Worker lanzado: seven_flip sobre GBPUSD
+[2025-05-12 11:40:30,207] [INFO] Worker lanzado: gaba sobre GBPUSD
+[2025-05-12 11:40:30,213] [INFO] Worker lanzado: five_flip sobre GBPUSD
+[2025-05-12 11:40:30,226] [INFO] Worker lanzado: reversao sobre GBPUSD
+[2025-05-12 11:40:30,235] [INFO] Worker lanzado: tres_vizinhos sobre GBPUSD
+[2025-05-12 11:40:30,250] [INFO] Worker lanzado: torres_gemeas sobre GBPUSD
+[2025-05-12 11:40:30,258] [INFO] Worker lanzado: tres_mosqueteiros sobre GBPUSD
+[2025-05-12 11:41:33,436] [ERROR] Fallo en broker.comprar para EURUSD CALL
+[2025-05-12 11:41:40,415] [ERROR] Fallo en broker.comprar para EURUSD PUT
+[2025-05-12 11:41:44,044] [ERROR] Fallo en broker.comprar para USDJPY-OTC PUT
+[2025-05-12 11:41:46,327] [ERROR] Fallo en broker.comprar para USDJPY-OTC CALL
+[2025-05-12 11:41:52,011] [ERROR] Fallo en broker.comprar para GBPUSD PUT
+[2025-05-12 11:41:57,701] [ERROR] Fallo en broker.comprar para GBPUSD CALL
+[2025-05-12 11:42:03,792] [ERROR] Fallo en broker.comprar para GBPUSD CALL
+[2025-05-12 11:42:09,732] [ERROR] Fallo en broker.comprar para GBPUSD CALL
+[2025-05-12 11:42:15,608] [ERROR] Fallo en broker.comprar para GBPUSD PUT
+[2025-05-12 11:42:21,370] [ERROR] Fallo en broker.comprar para GBPUSD CALL
+[2025-05-12 11:42:28,104] [ERROR] Fallo en broker.comprar para EURUSD PUT
+[2025-05-12 11:42:34,253] [ERROR] Fallo en broker.comprar para EURUSD PUT
+[2025-05-12 11:42:40,028] [ERROR] Fallo en broker.comprar para EURUSD CALL
+[2025-05-12 11:42:47,269] [ERROR] Fallo en broker.comprar para EURUSD CALL
+[2025-05-12 11:42:50,051] [ERROR] Fallo en broker.comprar para USDJPY-OTC CALL
+[2025-05-12 11:42:54,430] [ERROR] Fallo en broker.comprar para USDJPY-OTC CALL
+[2025-05-12 11:43:02,576] [ERROR] Fallo en broker.comprar para GBPUSD CALL
+[2025-05-12 11:43:08,464] [ERROR] Fallo en broker.comprar para GBPUSD PUT
+[2025-05-12 11:43:11,008] [ERROR] Fallo en broker.comprar para USDJPY-OTC CALL
+[2025-05-12 11:43:17,399] [ERROR] Fallo en broker.comprar para EURUSD CALL
+[2025-05-12 11:47:52,050] [WARNING] No se encontraron pesos optimizados; usando lógica estándar.
+[2025-05-12 11:47:52,560] [INFO] Worker lanzado: mhi1_maioria sobre EURUSD
+[2025-05-12 11:47:52,570] [INFO] Worker lanzado: mhi1_minoria sobre EURUSD
+[2025-05-12 11:47:52,580] [INFO] Worker lanzado: mhi2_maioria sobre EURUSD
+[2025-05-12 11:47:52,586] [INFO] Worker lanzado: mhi2_minoria sobre EURUSD
+[2025-05-12 11:47:52,593] [INFO] Worker lanzado: mhi3_maioria sobre EURUSD
+[2025-05-12 11:47:52,603] [INFO] Worker lanzado: mhi3_minoria sobre EURUSD
+[2025-05-12 11:47:52,606] [INFO] Worker lanzado: milhao_maioria sobre EURUSD
+[2025-05-12 11:47:52,658] [INFO] Worker lanzado: milhao_minoria sobre EURUSD
+[2025-05-12 11:47:52,664] [INFO] Worker lanzado: padrao_impar sobre EURUSD
+[2025-05-12 11:47:52,681] [INFO] Worker lanzado: melhor_de_3 sobre EURUSD
+[2025-05-12 11:47:52,685] [INFO] Worker lanzado: padrao_23 sobre EURUSD
+[2025-05-12 11:47:52,717] [INFO] Worker lanzado: turno_over sobre EURUSD
+[2025-05-12 11:47:52,721] [INFO] Worker lanzado: seven_flip sobre EURUSD
+[2025-05-12 11:47:52,731] [INFO] Worker lanzado: gaba sobre EURUSD
+[2025-05-12 11:47:52,740] [INFO] Worker lanzado: five_flip sobre EURUSD
+[2025-05-12 11:47:52,761] [INFO] Worker lanzado: reversao sobre EURUSD
+[2025-05-12 11:47:52,775] [INFO] Worker lanzado: tres_vizinhos sobre EURUSD
+[2025-05-12 11:47:52,790] [INFO] Worker lanzado: torres_gemeas sobre EURUSD
+[2025-05-12 11:47:52,798] [INFO] Worker lanzado: tres_mosqueteiros sobre EURUSD
+[2025-05-12 11:47:52,801] [INFO] Worker lanzado: mhi1_maioria sobre USDJPY-OTC
+[2025-05-12 11:47:52,803] [INFO] Worker lanzado: mhi1_minoria sobre USDJPY-OTC
+[2025-05-12 11:47:52,806] [INFO] Worker lanzado: mhi2_maioria sobre USDJPY-OTC
+[2025-05-12 11:47:52,810] [INFO] Worker lanzado: mhi2_minoria sobre USDJPY-OTC
+[2025-05-12 11:47:52,823] [INFO] Worker lanzado: mhi3_maioria sobre USDJPY-OTC
+[2025-05-12 11:47:52,825] [INFO] Worker lanzado: mhi3_minoria sobre USDJPY-OTC
+[2025-05-12 11:47:52,826] [INFO] Worker lanzado: milhao_maioria sobre USDJPY-OTC
+[2025-05-12 11:47:52,827] [INFO] Worker lanzado: milhao_minoria sobre USDJPY-OTC
+[2025-05-12 11:47:52,874] [INFO] Worker lanzado: padrao_impar sobre USDJPY-OTC
+[2025-05-12 11:47:52,893] [INFO] Worker lanzado: melhor_de_3 sobre USDJPY-OTC
+[2025-05-12 11:47:52,894] [INFO] Worker lanzado: padrao_23 sobre USDJPY-OTC
+[2025-05-12 11:47:52,896] [INFO] Worker lanzado: turno_over sobre USDJPY-OTC
+[2025-05-12 11:47:52,898] [INFO] Worker lanzado: seven_flip sobre USDJPY-OTC
+[2025-05-12 11:47:52,913] [INFO] Worker lanzado: gaba sobre USDJPY-OTC
+[2025-05-12 11:47:52,914] [INFO] Worker lanzado: five_flip sobre USDJPY-OTC
+[2025-05-12 11:47:52,915] [INFO] Worker lanzado: reversao sobre USDJPY-OTC
+[2025-05-12 11:47:52,917] [INFO] Worker lanzado: tres_vizinhos sobre USDJPY-OTC
+[2025-05-12 11:47:52,920] [INFO] Worker lanzado: torres_gemeas sobre USDJPY-OTC
+[2025-05-12 11:47:52,956] [INFO] Worker lanzado: tres_mosqueteiros sobre USDJPY-OTC
+[2025-05-12 11:47:52,964] [INFO] Worker lanzado: mhi1_maioria sobre GBPUSD
+[2025-05-12 11:47:52,969] [INFO] Worker lanzado: mhi1_minoria sobre GBPUSD
+[2025-05-12 11:47:52,972] [INFO] Worker lanzado: mhi2_maioria sobre GBPUSD
+[2025-05-12 11:47:52,975] [INFO] Worker lanzado: mhi2_minoria sobre GBPUSD
+[2025-05-12 11:47:52,977] [INFO] Worker lanzado: mhi3_maioria sobre GBPUSD
+[2025-05-12 11:47:52,987] [INFO] Worker lanzado: mhi3_minoria sobre GBPUSD
+[2025-05-12 11:47:53,066] [INFO] Worker lanzado: milhao_maioria sobre GBPUSD
+[2025-05-12 11:47:53,083] [INFO] Worker lanzado: milhao_minoria sobre GBPUSD
+[2025-05-12 11:47:53,099] [INFO] Worker lanzado: padrao_impar sobre GBPUSD
+[2025-05-12 11:47:53,101] [INFO] Worker lanzado: melhor_de_3 sobre GBPUSD
+[2025-05-12 11:47:53,105] [INFO] Worker lanzado: padrao_23 sobre GBPUSD
+[2025-05-12 11:47:53,107] [INFO] Worker lanzado: turno_over sobre GBPUSD
+[2025-05-12 11:47:53,110] [INFO] Worker lanzado: seven_flip sobre GBPUSD
+[2025-05-12 11:47:53,115] [INFO] Worker lanzado: gaba sobre GBPUSD
+[2025-05-12 11:47:53,165] [INFO] Worker lanzado: five_flip sobre GBPUSD
+[2025-05-12 11:47:53,169] [INFO] Worker lanzado: reversao sobre GBPUSD
+[2025-05-12 11:47:53,171] [INFO] Worker lanzado: tres_vizinhos sobre GBPUSD
+[2025-05-12 11:47:53,174] [INFO] Worker lanzado: torres_gemeas sobre GBPUSD
+[2025-05-12 11:47:53,186] [INFO] Worker lanzado: tres_mosqueteiros sobre GBPUSD
+[2025-05-12 11:48:23,062] [ERROR] Fallo en broker.comprar para USDJPY-OTC CALL
+[2025-05-12 11:48:29,933] [ERROR] Fallo en broker.comprar para GBPUSD PUT
+[2025-05-12 11:48:37,806] [ERROR] Fallo en broker.comprar para GBPUSD PUT
+[2025-05-12 11:48:59,176] [ERROR] Fallo en broker.comprar para EURUSD PUT
+[2025-05-12 11:49:17,639] [ERROR] Fallo en broker.comprar para GBPUSD PUT
+[2025-05-12 11:50:05,752] [ERROR] Fallo en broker.comprar para EURUSD CALL
+[2025-05-12 11:52:44,060] [WARNING] No se encontraron pesos optimizados; usando lógica estándar.
+[2025-05-12 11:52:44,226] [INFO] Worker lanzado: mhi1_maioria sobre EURUSD
+[2025-05-12 11:52:44,236] [INFO] Worker lanzado: mhi1_minoria sobre EURUSD
+[2025-05-12 11:52:44,238] [INFO] Worker lanzado: mhi2_maioria sobre EURUSD
+[2025-05-12 11:52:44,241] [INFO] Worker lanzado: mhi2_minoria sobre EURUSD
+[2025-05-12 11:52:44,261] [INFO] Worker lanzado: mhi3_maioria sobre EURUSD
+[2025-05-12 11:52:44,265] [INFO] Worker lanzado: mhi3_minoria sobre EURUSD
+[2025-05-12 11:52:44,277] [INFO] Worker lanzado: milhao_maioria sobre EURUSD
+[2025-05-12 11:52:44,281] [INFO] Worker lanzado: milhao_minoria sobre EURUSD
+[2025-05-12 11:52:44,285] [INFO] Worker lanzado: padrao_impar sobre EURUSD
+[2025-05-12 11:52:44,322] [INFO] Worker lanzado: melhor_de_3 sobre EURUSD
+[2025-05-12 11:52:44,339] [INFO] Worker lanzado: padrao_23 sobre EURUSD
+[2025-05-12 11:52:44,343] [INFO] Worker lanzado: turno_over sobre EURUSD
+[2025-05-12 11:52:44,352] [INFO] Worker lanzado: seven_flip sobre EURUSD
+[2025-05-12 11:52:44,374] [INFO] Worker lanzado: gaba sobre EURUSD
+[2025-05-12 11:52:44,391] [INFO] Worker lanzado: five_flip sobre EURUSD
+[2025-05-12 11:52:44,393] [INFO] Worker lanzado: reversao sobre EURUSD
+[2025-05-12 11:52:44,420] [INFO] Worker lanzado: tres_vizinhos sobre EURUSD
+[2025-05-12 11:52:44,422] [INFO] Worker lanzado: torres_gemeas sobre EURUSD
+[2025-05-12 11:52:44,425] [INFO] Worker lanzado: tres_mosqueteiros sobre EURUSD
+[2025-05-12 11:52:44,428] [INFO] Worker lanzado: mhi1_maioria sobre USDJPY-OTC
+[2025-05-12 11:52:44,437] [INFO] Worker lanzado: mhi1_minoria sobre USDJPY-OTC
+[2025-05-12 11:52:44,438] [INFO] Worker lanzado: mhi2_maioria sobre USDJPY-OTC
+[2025-05-12 11:52:44,440] [INFO] Worker lanzado: mhi2_minoria sobre USDJPY-OTC
+[2025-05-12 11:52:44,442] [INFO] Worker lanzado: mhi3_maioria sobre USDJPY-OTC
+[2025-05-12 11:52:44,447] [INFO] Worker lanzado: mhi3_minoria sobre USDJPY-OTC
+[2025-05-12 11:52:44,456] [INFO] Worker lanzado: milhao_maioria sobre USDJPY-OTC
+[2025-05-12 11:52:44,457] [INFO] Worker lanzado: milhao_minoria sobre USDJPY-OTC
+[2025-05-12 11:52:44,460] [INFO] Worker lanzado: padrao_impar sobre USDJPY-OTC
+[2025-05-12 11:52:44,462] [INFO] Worker lanzado: melhor_de_3 sobre USDJPY-OTC
+[2025-05-12 11:52:44,464] [INFO] Worker lanzado: padrao_23 sobre USDJPY-OTC
+[2025-05-12 11:52:44,465] [INFO] Worker lanzado: turno_over sobre USDJPY-OTC
+[2025-05-12 11:52:44,469] [INFO] Worker lanzado: seven_flip sobre USDJPY-OTC
+[2025-05-12 11:52:44,473] [INFO] Worker lanzado: gaba sobre USDJPY-OTC
+[2025-05-12 11:52:44,483] [INFO] Worker lanzado: five_flip sobre USDJPY-OTC
+[2025-05-12 11:52:44,483] [INFO] Worker lanzado: reversao sobre USDJPY-OTC
+[2025-05-12 11:52:44,484] [INFO] Worker lanzado: tres_vizinhos sobre USDJPY-OTC
+[2025-05-12 11:52:44,486] [INFO] Worker lanzado: torres_gemeas sobre USDJPY-OTC
+[2025-05-12 11:52:44,495] [INFO] Worker lanzado: tres_mosqueteiros sobre USDJPY-OTC
+[2025-05-12 11:52:44,498] [INFO] Worker lanzado: mhi1_maioria sobre GBPUSD
+[2025-05-12 11:52:44,499] [INFO] Worker lanzado: mhi1_minoria sobre GBPUSD
+[2025-05-12 11:52:44,500] [INFO] Worker lanzado: mhi2_maioria sobre GBPUSD
+[2025-05-12 11:52:44,514] [INFO] Worker lanzado: mhi2_minoria sobre GBPUSD
+[2025-05-12 11:52:44,525] [INFO] Worker lanzado: mhi3_maioria sobre GBPUSD
+[2025-05-12 11:52:44,584] [INFO] Worker lanzado: mhi3_minoria sobre GBPUSD
+[2025-05-12 11:52:44,586] [INFO] Worker lanzado: milhao_maioria sobre GBPUSD
+[2025-05-12 11:52:44,588] [INFO] Worker lanzado: milhao_minoria sobre GBPUSD
+[2025-05-12 11:52:44,596] [INFO] Worker lanzado: padrao_impar sobre GBPUSD
+[2025-05-12 11:52:44,597] [INFO] Worker lanzado: melhor_de_3 sobre GBPUSD
+[2025-05-12 11:52:44,599] [INFO] Worker lanzado: padrao_23 sobre GBPUSD
+[2025-05-12 11:52:44,601] [INFO] Worker lanzado: turno_over sobre GBPUSD
+[2025-05-12 11:52:44,604] [INFO] Worker lanzado: seven_flip sobre GBPUSD
+[2025-05-12 11:52:44,626] [INFO] Worker lanzado: gaba sobre GBPUSD
+[2025-05-12 11:52:44,658] [INFO] Worker lanzado: five_flip sobre GBPUSD
+[2025-05-12 11:52:44,664] [INFO] Worker lanzado: reversao sobre GBPUSD
+[2025-05-12 11:52:44,729] [INFO] Worker lanzado: tres_vizinhos sobre GBPUSD
+[2025-05-12 11:52:44,740] [INFO] Worker lanzado: torres_gemeas sobre GBPUSD
+[2025-05-12 11:52:44,747] [INFO] Worker lanzado: tres_mosqueteiros sobre GBPUSD
+[2025-05-12 11:53:16,264] [ERROR] Fallo en broker.comprar para EURUSD PUT
+[2025-05-12 11:53:23,271] [ERROR] Fallo en broker.comprar para EURUSD PUT
+[2025-05-12 11:53:26,254] [ERROR] Fallo en broker.comprar para USDJPY-OTC CALL
+[2025-05-12 11:53:28,048] [ERROR] Fallo en broker.comprar para USDJPY-OTC PUT
+[2025-05-12 11:53:35,461] [ERROR] Fallo en broker.comprar para GBPUSD CALL
+[2025-05-12 11:53:41,278] [ERROR] Fallo en broker.comprar para GBPUSD PUT
+[2025-05-12 12:49:43,151] [WARNING] No se encontraron pesos optimizados; usando lógica estándar.
+[2025-05-12 12:49:43,364] [INFO] Worker lanzado: mhi1_maioria sobre EURUSD
+[2025-05-12 12:49:43,375] [INFO] Worker lanzado: mhi1_minoria sobre EURUSD
+[2025-05-12 12:49:43,378] [INFO] Worker lanzado: mhi2_maioria sobre EURUSD
+[2025-05-12 12:49:43,430] [INFO] Worker lanzado: mhi2_minoria sobre EURUSD
+[2025-05-12 12:49:43,441] [INFO] Worker lanzado: mhi3_maioria sobre EURUSD
+[2025-05-12 12:49:43,444] [INFO] Worker lanzado: mhi3_minoria sobre EURUSD
+[2025-05-12 12:49:43,448] [INFO] Worker lanzado: milhao_maioria sobre EURUSD
+[2025-05-12 12:49:43,464] [INFO] Worker lanzado: milhao_minoria sobre EURUSD
+[2025-05-12 12:49:43,465] [INFO] Worker lanzado: padrao_impar sobre EURUSD
+[2025-05-12 12:49:43,482] [INFO] Worker lanzado: melhor_de_3 sobre EURUSD
+[2025-05-12 12:49:43,485] [INFO] Worker lanzado: padrao_23 sobre EURUSD
+[2025-05-12 12:49:43,488] [INFO] Worker lanzado: turno_over sobre EURUSD
+[2025-05-12 12:49:43,523] [INFO] Worker lanzado: seven_flip sobre EURUSD
+[2025-05-12 12:49:43,527] [INFO] Worker lanzado: gaba sobre EURUSD
+[2025-05-12 12:49:43,529] [INFO] Worker lanzado: five_flip sobre EURUSD
+[2025-05-12 12:49:43,542] [INFO] Worker lanzado: reversao sobre EURUSD
+[2025-05-12 12:49:43,556] [INFO] Worker lanzado: tres_vizinhos sobre EURUSD
+[2025-05-12 12:49:43,557] [INFO] Worker lanzado: torres_gemeas sobre EURUSD
+[2025-05-12 12:49:43,561] [INFO] Worker lanzado: tres_mosqueteiros sobre EURUSD
+[2025-05-12 12:49:43,568] [INFO] Worker lanzado: mhi1_maioria sobre USDJPY-OTC
+[2025-05-12 12:49:43,572] [INFO] Worker lanzado: mhi1_minoria sobre USDJPY-OTC
+[2025-05-12 12:49:43,574] [INFO] Worker lanzado: mhi2_maioria sobre USDJPY-OTC
+[2025-05-12 12:49:43,575] [INFO] Worker lanzado: mhi2_minoria sobre USDJPY-OTC
+[2025-05-12 12:49:43,690] [INFO] Worker lanzado: mhi3_maioria sobre USDJPY-OTC
+[2025-05-12 12:49:43,707] [INFO] Worker lanzado: mhi3_minoria sobre USDJPY-OTC
+[2025-05-12 12:49:43,709] [INFO] Worker lanzado: milhao_maioria sobre USDJPY-OTC
+[2025-05-12 12:49:43,710] [INFO] Worker lanzado: milhao_minoria sobre USDJPY-OTC
+[2025-05-12 12:49:43,711] [INFO] Worker lanzado: padrao_impar sobre USDJPY-OTC
+[2025-05-12 12:49:43,713] [INFO] Worker lanzado: melhor_de_3 sobre USDJPY-OTC
+[2025-05-12 12:49:43,721] [INFO] Worker lanzado: padrao_23 sobre USDJPY-OTC
+[2025-05-12 12:49:43,723] [INFO] Worker lanzado: turno_over sobre USDJPY-OTC
+[2025-05-12 12:49:43,723] [INFO] Worker lanzado: seven_flip sobre USDJPY-OTC
+[2025-05-12 12:49:43,724] [INFO] Worker lanzado: gaba sobre USDJPY-OTC
+[2025-05-12 12:49:43,726] [INFO] Worker lanzado: five_flip sobre USDJPY-OTC
+[2025-05-12 12:49:43,733] [INFO] Worker lanzado: reversao sobre USDJPY-OTC
+[2025-05-12 12:49:43,734] [INFO] Worker lanzado: tres_vizinhos sobre USDJPY-OTC
+[2025-05-12 12:49:43,736] [INFO] Worker lanzado: torres_gemeas sobre USDJPY-OTC
+[2025-05-12 12:49:43,737] [INFO] Worker lanzado: tres_mosqueteiros sobre USDJPY-OTC
+[2025-05-12 12:49:43,738] [INFO] Worker lanzado: mhi1_maioria sobre GBPUSD
+[2025-05-12 12:49:43,739] [INFO] Worker lanzado: mhi1_minoria sobre GBPUSD
+[2025-05-12 12:49:43,741] [INFO] Worker lanzado: mhi2_maioria sobre GBPUSD
+[2025-05-12 12:49:43,743] [INFO] Worker lanzado: mhi2_minoria sobre GBPUSD
+[2025-05-12 12:49:43,755] [INFO] Worker lanzado: mhi3_maioria sobre GBPUSD
+[2025-05-12 12:49:43,761] [INFO] Worker lanzado: mhi3_minoria sobre GBPUSD
+[2025-05-12 12:49:43,796] [INFO] Worker lanzado: milhao_maioria sobre GBPUSD
+[2025-05-12 12:49:43,825] [INFO] Worker lanzado: milhao_minoria sobre GBPUSD
+[2025-05-12 12:49:43,827] [INFO] Worker lanzado: padrao_impar sobre GBPUSD
+[2025-05-12 12:49:43,828] [INFO] Worker lanzado: melhor_de_3 sobre GBPUSD
+[2025-05-12 12:49:43,837] [INFO] Worker lanzado: padrao_23 sobre GBPUSD
+[2025-05-12 12:49:43,838] [INFO] Worker lanzado: turno_over sobre GBPUSD
+[2025-05-12 12:49:43,839] [INFO] Worker lanzado: seven_flip sobre GBPUSD
+[2025-05-12 12:49:43,839] [INFO] Worker lanzado: gaba sobre GBPUSD
+[2025-05-12 12:49:43,840] [INFO] Worker lanzado: five_flip sobre GBPUSD
+[2025-05-12 12:49:43,842] [INFO] Worker lanzado: reversao sobre GBPUSD
+[2025-05-12 12:49:43,854] [INFO] Worker lanzado: tres_vizinhos sobre GBPUSD
+[2025-05-12 12:49:43,858] [INFO] Worker lanzado: torres_gemeas sobre GBPUSD
+[2025-05-12 12:49:43,863] [INFO] Worker lanzado: tres_mosqueteiros sobre GBPUSD
+[2025-05-12 12:50:42,171] [ERROR] Fallo en broker.comprar para EURUSD PUT
+[2025-05-12 12:50:48,749] [ERROR] Fallo en broker.comprar para EURUSD CALL
+[2025-05-12 12:50:52,071] [ERROR] Fallo en broker.comprar para USDJPY-OTC PUT
+[2025-05-12 12:50:58,106] [ERROR] Fallo en broker.comprar para GBPUSD PUT
+[2025-05-12 12:51:05,015] [ERROR] Fallo en broker.comprar para GBPUSD PUT
+[2025-05-12 12:51:11,170] [ERROR] Fallo en broker.comprar para GBPUSD PUT
+[2025-05-12 12:51:12,920] [ERROR] Fallo en broker.comprar para USDJPY-OTC CALL
+[2025-05-12 12:51:19,790] [ERROR] Fallo en broker.comprar para EURUSD CALL
+[2025-05-12 12:51:25,777] [ERROR] Fallo en broker.comprar para EURUSD CALL
+[2025-05-12 12:51:28,301] [ERROR] Fallo en broker.comprar para USDJPY-OTC CALL
+[2025-05-12 12:51:35,053] [ERROR] Fallo en broker.comprar para GBPUSD CALL
+[2025-05-12 12:51:44,049] [ERROR] Fallo en broker.comprar para GBPUSD CALL
+[2025-05-12 12:51:54,542] [ERROR] Fallo en broker.comprar para USDJPY-OTC CALL
+[2025-05-12 12:52:05,173] [ERROR] Fallo en broker.comprar para EURUSD PUT
+[2025-05-12 12:52:12,406] [ERROR] Fallo en broker.comprar para EURUSD PUT
+[2025-05-12 12:52:24,734] [ERROR] Fallo en broker.comprar para GBPUSD CALL
+[2025-05-12 12:52:31,676] [ERROR] Fallo en broker.comprar para GBPUSD CALL
+[2025-05-12 12:52:37,791] [ERROR] Fallo en broker.comprar para GBPUSD CALL
+[2025-05-12 12:53:20,015] [ERROR] Fallo en broker.comprar para EURUSD CALL
+[2025-05-12 12:53:28,534] [ERROR] Fallo en broker.comprar para EURUSD CALL
+[2025-05-12 12:53:45,733] [ERROR] Fallo en broker.comprar para GBPUSD CALL
+[2025-05-12 12:53:51,935] [ERROR] Fallo en broker.comprar para GBPUSD CALL
+[2025-05-12 12:54:24,380] [ERROR] Fallo en broker.comprar para EURUSD PUT
+[2025-05-12 12:54:57,281] [ERROR] Fallo en broker.comprar para USDJPY-OTC CALL
+[2025-05-12 12:55:02,049] [ERROR] Fallo en broker.comprar para USDJPY-OTC CALL
+[2025-05-12 12:55:38,070] [ERROR] Fallo en broker.comprar para EURUSD CALL
+[2025-05-12 12:55:53,084] [ERROR] Fallo en broker.comprar para USDJPY-OTC PUT
+[2025-05-12 12:56:13,084] [ERROR] Fallo en broker.comprar para GBPUSD CALL
+[2025-05-12 12:56:19,804] [ERROR] Fallo en broker.comprar para GBPUSD PUT
+[2025-05-12 12:56:43,257] [ERROR] Fallo en broker.comprar para EURUSD PUT
+[2025-05-12 12:56:48,890] [ERROR] Fallo en broker.comprar para EURUSD CALL
+[2025-05-12 12:56:53,219] [ERROR] Fallo en broker.comprar para USDJPY-OTC PUT
+[2025-05-12 12:57:02,958] [ERROR] Fallo en broker.comprar para USDJPY-OTC CALL
+[2025-05-12 12:57:26,818] [ERROR] Fallo en broker.comprar para GBPUSD CALL
+[2025-05-12 12:57:56,082] [ERROR] Fallo en broker.comprar para EURUSD CALL
+[2025-05-12 12:58:02,907] [ERROR] Fallo en broker.comprar para USDJPY-OTC CALL
+[2025-05-12 12:58:24,071] [ERROR] Fallo en broker.comprar para GBPUSD CALL
+[2025-05-12 12:58:29,895] [ERROR] Fallo en broker.comprar para GBPUSD CALL
+[2025-05-12 12:58:54,440] [ERROR] Fallo en broker.comprar para EURUSD PUT
+[2025-05-12 12:59:11,836] [ERROR] Fallo en broker.comprar para EURUSD PUT
+[2025-05-12 12:59:14,292] [ERROR] Fallo en broker.comprar para USDJPY-OTC PUT
+[2025-05-12 12:59:17,340] [ERROR] Fallo en broker.comprar para USDJPY-OTC PUT
+[2025-05-12 12:59:18,993] [ERROR] Fallo en broker.comprar para USDJPY-OTC CALL
+[2025-05-12 12:59:23,140] [ERROR] Fallo en broker.comprar para USDJPY-OTC CALL
+[2025-05-12 12:59:25,061] [ERROR] Fallo en broker.comprar para USDJPY-OTC CALL
+[2025-05-12 12:59:38,518] [ERROR] Fallo en broker.comprar para GBPUSD PUT
+[2025-05-12 13:00:02,680] [ERROR] Fallo en broker.comprar para EURUSD CALL
+[2025-05-12 13:00:10,351] [ERROR] Fallo en broker.comprar para USDJPY-OTC CALL
+[2025-05-12 13:00:13,134] [ERROR] Fallo en broker.comprar para USDJPY-OTC PUT
+[2025-05-12 13:00:15,370] [ERROR] Fallo en broker.comprar para USDJPY-OTC CALL
+[2025-05-12 13:00:33,706] [ERROR] Fallo en broker.comprar para GBPUSD PUT
+[2025-05-12 13:01:12,127] [ERROR] Fallo en broker.comprar para GBPUSD CALL
+[2025-05-12 13:01:26,320] [ERROR] Fallo en broker.comprar para EURUSD CALL
+[2025-05-12 13:01:38,100] [ERROR] Fallo en broker.comprar para USDJPY-OTC PUT
+[2025-05-12 13:01:40,297] [ERROR] Fallo en broker.comprar para USDJPY-OTC PUT
+[2025-05-12 13:01:44,199] [ERROR] Fallo en broker.comprar para USDJPY-OTC PUT
+[2025-05-12 13:01:56,712] [ERROR] Fallo en broker.comprar para GBPUSD PUT
+[2025-05-12 13:02:31,029] [ERROR] Fallo en broker.comprar para EURUSD PUT
+[2025-05-12 13:02:55,349] [ERROR] Fallo en broker.comprar para USDJPY-OTC PUT
+[2025-05-12 13:03:10,340] [ERROR] Fallo en broker.comprar para USDJPY-OTC CALL

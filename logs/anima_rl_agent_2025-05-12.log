@@ -1,0 +1,6 @@
+[2025-05-12 02:33:49,204] [INFO] Migración RL v1->v2 completada, estado en rl_state.pkl
+[2025-05-12 02:33:49,210] [INFO] Estado RL cargado de rl_state.pkl
+[2025-05-12 02:33:49,216] [INFO] Estado RL guardado en rl_state.pkl
+[2025-05-12 02:35:04,488] [INFO] Migración RL v1->v2 completada, estado en rl_state.pkl
+[2025-05-12 02:35:04,496] [INFO] Estado RL cargado de rl_state.pkl
+[2025-05-12 02:35:04,504] [INFO] Estado RL guardado en rl_state.pkl

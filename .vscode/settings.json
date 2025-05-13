@@ -1,0 +1,29 @@
+{
+    "workbench.editor.enablePreview": true,
+    "workbench.editor.autoLockGroups": {
+        "default": true,
+        "hexEditor.hexedit": true,
+        "workbench.editorinputs.searchEditorInput": true,
+        "jupyter-notebook": true,
+        "repl": true,
+        "workbench.editors.gettingStartedInput": true,
+        "imagePreview.previewEditor": true,
+        "vscode.audioPreview": true,
+        "vscode.videoPreview": true,
+        "jsProfileVisualizer.cpuprofile.table": true,
+        "jsProfileVisualizer.heapsnapshot.table": true,
+        "jsProfileVisualizer.heapprofile.table": true,
+        "workbench.input.interactive": true,
+        "mainThreadWebview-markdown.preview": true
+    },
+    "workbench.editor.alwaysShowEditorActions": true,
+    "workbench.editor.defaultBinaryEditor": "hexEditor.hexedit",
+    "workbench.editor.customLabels.patterns": {
+        "**/anima_*.py": "🧠 ${filename} — ⚙️ núcleo",
+        "**/*.md": "🛠 ${filename} — 📘 Documentación",
+        "**/*.log": "🔧 ${filename} — 📊 Logs",
+        "terminal": "🔧 Terminal — 💻 sesión activa"
+    },
+    "github.copilot.chat.codesearch.enabled": true,
+    "python.analysis.autoImportCompletions": true
+}

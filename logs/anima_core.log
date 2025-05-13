@@ -1,0 +1,209 @@
+[2025-04-17 14:12:12,873] INFO - Balance inicial: 9667.6
+[2025-04-17 14:12:12,874] INFO - Iniciando ciclo de operaciones.
+[2025-04-17 14:18:33,766] INFO - Balance inicial: 9667.6
+[2025-04-17 14:18:33,766] INFO - Iniciando ciclo de operaciones.
+[2025-04-17 14:18:34,241] INFO - Operacion ejecutada: <Signal 2025-04-17 14:18:33 | USDJPY | CALL | dummy_random_strategy> | Nivel 1 | Monto $1
+[2025-04-17 14:20:10,483] INFO - Balance inicial: 9667.6
+[2025-04-17 14:20:10,483] INFO - Iniciando ciclo de operaciones.
+[2025-04-17 14:20:11,018] INFO - Operacion ejecutada: <Signal 2025-04-17 14:20:10 | USDJPY | PUT | dummy_random_strategy> | Nivel 1 | Monto $1
+[2025-04-17 14:21:16,884] INFO - Balance inicial: 9667.6
+[2025-04-17 14:21:16,884] INFO - Iniciando ciclo de operaciones.
+[2025-04-17 14:21:17,387] INFO - Operacion ejecutada: <Signal 2025-04-17 14:21:17 | EURUSD | CALL | dummy_random_strategy> | Nivel 1 | Monto $1
+[2025-04-17 14:30:31,620] INFO - Balance inicial: 10000
+[2025-04-17 14:30:31,620] INFO - Iniciando ciclo de operaciones.
+[2025-04-17 14:30:32,236] INFO - Operacion ejecutada: <Signal 2025-04-17 14:30:31 | USDJPY | CALL | dummy_random_strategy> | Nivel 1 | Monto $1
+[2025-04-17 14:33:53,003] INFO - Balance inicial: 10000
+[2025-04-17 14:33:53,004] INFO - Iniciando ciclo de operaciones.
+[2025-04-17 14:33:53,488] INFO - Operacion ejecutada: <Signal 2025-04-17 14:33:53 | USDJPY | CALL | dummy_random_strategy> | Nivel 1 | Monto $1
+[2025-04-17 14:45:29,065] INFO - Balance inicial: 10000
+[2025-04-17 14:45:29,065] INFO - Iniciando ciclo de operaciones.
+[2025-04-17 14:48:47,462] INFO - Balance inicial: 10000
+[2025-04-17 14:48:47,462] INFO - Iniciando ciclo de operaciones.
+[2025-04-17 14:48:47,950] INFO - Operacion ejecutada: <Signal 2025-04-17 14:48:47 | EURUSD | PUT | dummy_random_strategy> | Nivel 1 | Monto $25
+[2025-04-18 09:38:05,726] INFO - Balance inicial: 10000
+[2025-04-18 09:38:05,729] INFO - Iniciando ciclo de operaciones.
+[2025-04-18 09:46:35,595] INFO - Balance inicial: 10000
+[2025-04-18 09:46:35,595] INFO - Iniciando ciclo de operaciones.
+[2025-04-18 09:48:31,947] INFO - Balance inicial: 10000
+[2025-04-18 09:48:31,947] INFO - Iniciando ciclo de operaciones.
+[2025-04-18 09:58:40,751] INFO - Balance inicial: 10000
+[2025-04-18 09:58:40,751] INFO - Iniciando ciclo de operaciones.
+[2025-04-18 15:18:47,445] INFO - Calculando métricas históricas...
+[2025-04-18 15:43:26,909] INFO - Calculando métricas históricas...
+[2025-04-18 16:02:21,354] INFO - Calculando métricas históricas...
+[2025-04-18 16:04:59,400] INFO - Calculando métricas históricas...
+[2025-04-18 16:05:07,670] INFO - Calculando métricas históricas...
+[2025-04-18 16:06:21,864] INFO - Calculando métricas históricas...
+[2025-04-18 16:10:08,155] INFO - Calculando métricas históricas...
+[2025-04-18 16:10:15,608] INFO - Calculando métricas históricas...
+[2025-04-18 16:12:02,018] INFO - Calculando métricas históricas...
+[2025-04-18 16:12:11,179] INFO - Calculando métricas históricas...
+[2025-04-18 16:12:38,397] INFO - Calculando métricas históricas...
+[2025-04-18 16:15:21,813] INFO - Calculando métricas históricas...
+[2025-04-18 16:17:00,535] INFO - Calculando métricas históricas...
+[2025-04-18 16:20:55,632] INFO - Calculando métricas históricas...
+[2025-04-18 16:24:54,477] INFO - Calculando métricas históricas...
+[2025-04-18 16:26:01,479] INFO - Calculando métricas históricas...
+[2025-04-18 16:29:43,470] INFO - Calculando métricas históricas...
+[2025-04-18 16:33:27,167] INFO - Calculando métricas históricas...
+[2025-04-18 16:36:22,189] INFO - Calculando métricas históricas...
+[2025-04-18 16:40:45,231] INFO - Calculando métricas históricas...
+[2025-04-18 16:47:38,448] INFO - Calculando métricas históricas...
+[2025-04-18 16:48:03,674] INFO - Calculando métricas históricas...
+[2025-04-18 16:50:04,442] INFO - Calculando métricas históricas...
+[2025-04-18 16:51:49,760] INFO - Calculando métricas históricas...
+[2025-04-18 16:52:57,451] INFO - Calculando métricas históricas...
+[2025-04-18 16:55:23,752] INFO - Calculando métricas históricas...
+[2025-04-18 17:00:49,089] INFO - Calculando métricas históricas...
+[2025-04-18 17:06:14,168] INFO - Calculando métricas históricas...
+[2025-04-18 19:45:45,082] INFO - [WORKER] Lanzado: mhi1_maioria en EURUSD
+[2025-04-18 19:45:45,087] INFO - [WORKER] Lanzado: mhi1_maioria en USDJPY-OTC
+[2025-04-18 19:45:45,096] INFO - [WORKER] Lanzado: mhi1_maioria en GBPUSD
+[2025-04-18 19:45:45,669] INFO - [WORKER] Lanzado: mhi1_minoria en EURUSD
+[2025-04-18 19:45:45,842] INFO - [WORKER] Lanzado: mhi1_minoria en USDJPY-OTC
+[2025-04-18 19:45:45,984] INFO - [WORKER] Lanzado: mhi1_minoria en GBPUSD
+[2025-04-18 19:45:47,336] INFO - [WORKER] Lanzado: mhi2_maioria en EURUSD
+[2025-04-18 19:45:48,108] INFO - [WORKER] Lanzado: mhi2_maioria en USDJPY-OTC
+[2025-04-18 19:45:48,284] INFO - [WORKER] Lanzado: mhi2_maioria en GBPUSD
+[2025-04-18 19:45:49,697] INFO - [WORKER] Lanzado: mhi2_minoria en EURUSD
+[2025-04-18 19:45:49,697] INFO - [WORKER] Lanzado: mhi2_minoria en USDJPY-OTC
+[2025-04-18 19:45:49,717] INFO - [WORKER] Lanzado: mhi2_minoria en GBPUSD
+[2025-04-18 19:45:51,713] INFO - [WORKER] Lanzado: mhi3_maioria en EURUSD
+[2025-04-18 19:45:51,980] INFO - [WORKER] Lanzado: mhi3_maioria en USDJPY-OTC
+[2025-04-18 19:45:52,950] INFO - [WORKER] Lanzado: mhi3_maioria en GBPUSD
+[2025-04-18 19:45:57,473] INFO - [WORKER] Lanzado: mhi3_minoria en EURUSD
+[2025-04-18 19:45:57,522] INFO - [WORKER] Lanzado: mhi3_minoria en USDJPY-OTC
+[2025-04-18 19:45:58,915] INFO - [WORKER] Lanzado: mhi3_minoria en GBPUSD
+[2025-04-18 19:46:02,546] INFO - [WORKER] Lanzado: milhao_maioria en EURUSD
+[2025-04-18 19:46:02,762] INFO - [WORKER] Lanzado: milhao_maioria en USDJPY-OTC
+[2025-04-18 19:46:02,918] INFO - [WORKER] Lanzado: milhao_maioria en GBPUSD
+[2025-04-18 19:46:03,958] INFO - [WORKER] Lanzado: milhao_minoria en EURUSD
+[2025-04-18 19:46:04,255] INFO - [WORKER] Lanzado: milhao_minoria en USDJPY-OTC
+[2025-04-18 19:46:04,445] INFO - [WORKER] Lanzado: milhao_minoria en GBPUSD
+[2025-04-18 19:46:05,872] INFO - [WORKER] Lanzado: padrao_impar en EURUSD
+[2025-04-18 19:46:06,155] INFO - [WORKER] Lanzado: padrao_impar en USDJPY-OTC
+[2025-04-18 19:46:06,511] INFO - [WORKER] Lanzado: padrao_impar en GBPUSD
+[2025-04-18 19:46:08,265] INFO - [WORKER] Lanzado: melhor_de_3 en EURUSD
+[2025-04-18 19:46:08,267] INFO - [WORKER] Lanzado: melhor_de_3 en USDJPY-OTC
+[2025-04-18 19:46:08,268] INFO - [WORKER] Lanzado: melhor_de_3 en GBPUSD
+[2025-04-18 19:46:09,471] INFO - [WORKER] Lanzado: padrao_23 en EURUSD
+[2025-04-18 19:46:09,829] INFO - [WORKER] Lanzado: padrao_23 en USDJPY-OTC
+[2025-04-18 19:46:09,861] INFO - [WORKER] Lanzado: padrao_23 en GBPUSD
+[2025-04-18 19:46:10,751] INFO - [WORKER] Lanzado: turno_over en EURUSD
+[2025-04-18 19:46:11,016] INFO - [WORKER] Lanzado: turno_over en USDJPY-OTC
+[2025-04-18 19:46:11,294] INFO - [WORKER] Lanzado: turno_over en GBPUSD
+[2025-04-18 19:46:13,928] INFO - [WORKER] Lanzado: seven_flip en EURUSD
+[2025-04-18 19:46:14,226] INFO - [WORKER] Lanzado: seven_flip en USDJPY-OTC
+[2025-04-18 19:46:14,555] INFO - [WORKER] Lanzado: seven_flip en GBPUSD
+[2025-04-18 19:46:16,478] INFO - [WORKER] Lanzado: gaba en EURUSD
+[2025-04-18 19:46:16,857] INFO - [WORKER] Lanzado: gaba en USDJPY-OTC
+[2025-04-18 19:46:16,977] INFO - [WORKER] Lanzado: gaba en GBPUSD
+[2025-04-18 19:46:18,484] INFO - [WORKER] Lanzado: five_flip en EURUSD
+[2025-04-18 19:46:18,622] INFO - [WORKER] Lanzado: five_flip en USDJPY-OTC
+[2025-04-18 19:46:18,826] INFO - [WORKER] Lanzado: five_flip en GBPUSD
+[2025-04-18 19:46:20,243] INFO - [WORKER] Lanzado: reversao en EURUSD
+[2025-04-18 19:46:20,430] INFO - [WORKER] Lanzado: reversao en USDJPY-OTC
+[2025-04-18 19:46:20,570] INFO - [WORKER] Lanzado: reversao en GBPUSD
+[2025-04-18 19:46:21,397] INFO - [WORKER] Lanzado: tres_vizinhos en EURUSD
+[2025-04-18 19:46:21,461] INFO - [WORKER] Lanzado: tres_vizinhos en USDJPY-OTC
+[2025-04-18 19:46:21,507] INFO - [WORKER] Lanzado: tres_vizinhos en GBPUSD
+[2025-04-18 19:46:22,024] INFO - [WORKER] Lanzado: torres_gemeas en EURUSD
+[2025-04-18 19:46:22,056] INFO - [WORKER] Lanzado: torres_gemeas en USDJPY-OTC
+[2025-04-18 19:46:22,102] INFO - [WORKER] Lanzado: torres_gemeas en GBPUSD
+[2025-04-18 19:46:23,569] INFO - [WORKER] Lanzado: tres_mosqueteiros en EURUSD
+[2025-04-18 19:46:23,681] INFO - [WORKER] Lanzado: tres_mosqueteiros en USDJPY-OTC
+[2025-04-18 19:46:23,743] INFO - [WORKER] Lanzado: tres_mosqueteiros en GBPUSD
+[2025-04-18 19:46:23,743] INFO - [NÚCLEO] Núcleo simbiótico ejecutándose en tiempo real...
+[2025-04-18 19:46:24,022] INFO - [SEÑAL] Recibida: <Signal 2025-04-18 19:45:56 |  | PUT | mhi2_maioria>
+[2025-04-18 19:46:24,320] INFO - [SEÑAL] Recibida: <Signal 2025-04-18 19:45:58 |  | PUT | mhi1_maioria>
+[2025-04-18 19:46:24,618] INFO - [SEÑAL] Recibida: <Signal 2025-04-18 19:46:01 |  | CALL | mhi2_maioria>
+[2025-04-18 19:46:24,807] INFO - [SEÑAL] Recibida: <Signal 2025-04-18 19:46:01 |  | CALL | mhi1_maioria>
+[2025-04-18 19:46:25,290] INFO - [SEÑAL] Recibida: <Signal 2025-04-18 19:46:01 |  | CALL | mhi2_maioria>
+[2025-04-18 19:46:25,820] INFO - [SEÑAL] Recibida: <Signal 2025-04-18 19:46:01 |  | PUT | mhi2_minoria>
+[2025-04-18 19:46:26,211] INFO - [SEÑAL] Recibida: <Signal 2025-04-18 19:46:02 |  | CALL | mhi1_minoria>
+[2025-04-18 19:46:26,915] INFO - [SEÑAL] Recibida: <Signal 2025-04-18 19:46:02 |  | PUT | mhi1_maioria>
+[2025-04-18 19:46:27,147] INFO - [SEÑAL] Recibida: <Signal 2025-04-18 19:46:02 |  | CALL | mhi1_minoria>
+[2025-04-18 19:46:27,399] INFO - [SEÑAL] Recibida: <Signal 2025-04-18 19:46:03 |  | CALL | mhi2_minoria>
+[2025-04-18 19:46:27,633] INFO - [SEÑAL] Recibida: <Signal 2025-04-18 19:46:03 |  | CALL | mhi2_minoria>
+[2025-04-18 19:46:27,853] INFO - [SEÑAL] Recibida: <Signal 2025-04-18 19:46:15 |  | CALL | melhor_de_3>
+[2025-04-18 19:46:28,257] INFO - [SEÑAL] Recibida: <Signal 2025-04-18 19:46:15 |  | CALL | melhor_de_3>
+[2025-04-18 19:46:28,353] INFO - [SEÑAL] Recibida: <Signal 2025-04-18 19:46:21 |  | CALL | turno_over>
+[2025-04-18 19:47:40,139] INFO -  Interrupción manual detectada. Cerrando núcleo...
+[2025-04-18 20:08:13,175] INFO - [WORKER] Lanzado: mhi1_maioria en EURUSD
+[2025-04-18 20:08:13,179] INFO - [WORKER] Lanzado: mhi1_maioria en USDJPY-OTC
+[2025-04-18 20:08:13,221] INFO - [WORKER] Lanzado: mhi1_maioria en GBPUSD
+[2025-04-18 20:08:13,593] INFO - [WORKER] Lanzado: mhi1_minoria en EURUSD
+[2025-04-18 20:08:13,720] INFO - [WORKER] Lanzado: mhi1_minoria en USDJPY-OTC
+[2025-04-18 20:08:13,937] INFO - [WORKER] Lanzado: mhi1_minoria en GBPUSD
+[2025-04-18 20:08:15,077] INFO - [WORKER] Lanzado: mhi2_maioria en EURUSD
+[2025-04-18 20:08:15,204] INFO - [WORKER] Lanzado: mhi2_maioria en USDJPY-OTC
+[2025-04-18 20:08:15,299] INFO - [WORKER] Lanzado: mhi2_maioria en GBPUSD
+[2025-04-18 20:08:16,292] INFO - [WORKER] Lanzado: mhi2_minoria en EURUSD
+[2025-04-18 20:08:16,299] INFO - [WORKER] Lanzado: mhi2_minoria en USDJPY-OTC
+[2025-04-18 20:08:16,300] INFO - [WORKER] Lanzado: mhi2_minoria en GBPUSD
+[2025-04-18 20:08:16,333] INFO - [WORKER] Lanzado: mhi3_maioria en EURUSD
+[2025-04-18 20:08:16,364] INFO - [WORKER] Lanzado: mhi3_maioria en USDJPY-OTC
+[2025-04-18 20:08:16,395] INFO - [WORKER] Lanzado: mhi3_maioria en GBPUSD
+[2025-04-18 20:08:16,551] INFO - [WORKER] Lanzado: mhi3_minoria en EURUSD
+[2025-04-18 20:08:16,792] INFO - [WORKER] Lanzado: mhi3_minoria en USDJPY-OTC
+[2025-04-18 20:08:16,866] INFO - [WORKER] Lanzado: mhi3_minoria en GBPUSD
+[2025-04-18 20:08:20,573] INFO - [WORKER] Lanzado: milhao_maioria en EURUSD
+[2025-04-18 20:08:21,576] INFO - [WORKER] Lanzado: milhao_maioria en USDJPY-OTC
+[2025-04-18 20:08:22,024] INFO - [WORKER] Lanzado: milhao_maioria en GBPUSD
+[2025-04-18 20:08:26,043] INFO - [WORKER] Lanzado: milhao_minoria en EURUSD
+[2025-04-18 20:08:26,401] INFO - [WORKER] Lanzado: milhao_minoria en USDJPY-OTC
+[2025-04-18 20:08:26,558] INFO - [WORKER] Lanzado: milhao_minoria en GBPUSD
+[2025-04-18 20:08:29,109] INFO - [WORKER] Lanzado: padrao_impar en EURUSD
+[2025-04-18 20:08:30,138] INFO - [WORKER] Lanzado: padrao_impar en USDJPY-OTC
+[2025-04-18 20:08:30,732] INFO - [WORKER] Lanzado: padrao_impar en GBPUSD
+[2025-04-18 20:08:34,449] INFO - [WORKER] Lanzado: melhor_de_3 en EURUSD
+[2025-04-18 20:08:34,771] INFO - [WORKER] Lanzado: melhor_de_3 en USDJPY-OTC
+[2025-04-18 20:08:35,238] INFO - [WORKER] Lanzado: melhor_de_3 en GBPUSD
+[2025-04-18 20:08:38,522] INFO - [WORKER] Lanzado: padrao_23 en EURUSD
+[2025-04-18 20:08:39,132] INFO - [WORKER] Lanzado: padrao_23 en USDJPY-OTC
+[2025-04-18 20:08:39,677] INFO - [WORKER] Lanzado: padrao_23 en GBPUSD
+[2025-04-18 20:08:44,407] INFO - [WORKER] Lanzado: turno_over en EURUSD
+[2025-04-18 20:08:45,265] INFO - [WORKER] Lanzado: turno_over en USDJPY-OTC
+[2025-04-18 20:08:45,673] INFO - [WORKER] Lanzado: turno_over en GBPUSD
+[2025-04-18 20:08:47,836] INFO - [WORKER] Lanzado: seven_flip en EURUSD
+[2025-04-18 20:08:48,082] INFO - [WORKER] Lanzado: seven_flip en USDJPY-OTC
+[2025-04-18 20:08:48,376] INFO - [WORKER] Lanzado: seven_flip en GBPUSD
+[2025-04-18 20:08:49,495] INFO - [WORKER] Lanzado: gaba en EURUSD
+[2025-04-18 20:08:49,823] INFO - [WORKER] Lanzado: gaba en USDJPY-OTC
+[2025-04-18 20:08:49,948] INFO - [WORKER] Lanzado: gaba en GBPUSD
+[2025-04-18 20:08:50,007] INFO - [WORKER] Lanzado: five_flip en EURUSD
+[2025-04-18 20:08:50,014] INFO - [WORKER] Lanzado: five_flip en USDJPY-OTC
+[2025-04-18 20:08:50,017] INFO - [WORKER] Lanzado: five_flip en GBPUSD
+[2025-04-18 20:08:50,446] INFO - [WORKER] Lanzado: reversao en EURUSD
+[2025-04-18 20:08:50,521] INFO - [WORKER] Lanzado: reversao en USDJPY-OTC
+[2025-04-18 20:08:50,613] INFO - [WORKER] Lanzado: reversao en GBPUSD
+[2025-04-18 20:08:51,401] INFO - [WORKER] Lanzado: tres_vizinhos en EURUSD
+[2025-04-18 20:08:51,526] INFO - [WORKER] Lanzado: tres_vizinhos en USDJPY-OTC
+[2025-04-18 20:08:51,902] INFO - [WORKER] Lanzado: tres_vizinhos en GBPUSD
+[2025-04-18 20:08:53,149] INFO - [WORKER] Lanzado: torres_gemeas en EURUSD
+[2025-04-18 20:08:53,227] INFO - [WORKER] Lanzado: torres_gemeas en USDJPY-OTC
+[2025-04-18 20:08:53,553] INFO - [WORKER] Lanzado: torres_gemeas en GBPUSD
+[2025-04-18 20:08:57,014] INFO - [WORKER] Lanzado: tres_mosqueteiros en EURUSD
+[2025-04-18 20:08:57,325] INFO - [WORKER] Lanzado: tres_mosqueteiros en USDJPY-OTC
+[2025-04-18 20:08:58,149] INFO - [WORKER] Lanzado: tres_mosqueteiros en GBPUSD
+[2025-04-18 20:08:58,446] INFO - [NÚCLEO] Núcleo simbiótico ejecutándose en tiempo real...
+[2025-04-18 20:08:58,462] INFO - [SEÑAL] Recibida: <Signal 2025-04-18 20:08:37 |  | PUT | mhi2_minoria>
+[2025-04-18 20:08:59,317] INFO - [SEÑAL] Recibida: <Signal 2025-04-18 20:08:37 |  | CALL | mhi2_maioria>
+[2025-04-18 20:09:00,294] INFO - [SEÑAL] Recibida: <Signal 2025-04-18 20:08:37 |  | PUT | mhi1_minoria>
+[2025-04-18 20:09:00,725] INFO - [SEÑAL] Recibida: <Signal 2025-04-18 20:08:37 |  | PUT | mhi1_minoria>
+[2025-04-18 20:09:01,069] INFO - [SEÑAL] Recibida: <Signal 2025-04-18 20:08:44 |  | PUT | mhi3_minoria>
+[2025-04-18 20:09:01,252] INFO - [SEÑAL] Recibida: <Signal 2025-04-18 20:08:44 |  | PUT | mhi1_maioria>
+[2025-04-18 20:09:01,687] INFO - [SEÑAL] Recibida: <Signal 2025-04-18 20:08:45 |  | CALL | mhi3_maioria>
+[2025-04-18 20:09:01,843] INFO - [SEÑAL] Recibida: <Signal 2025-04-18 20:08:45 |  | PUT | milhao_minoria>
+[2025-04-18 20:09:02,170] INFO - [SEÑAL] Recibida: <Signal 2025-04-18 20:08:45 |  | CALL | mhi2_minoria>
+[2025-04-18 20:09:02,682] INFO - [SEÑAL] Recibida: <Signal 2025-04-18 20:08:45 |  | CALL | mhi2_minoria>
+[2025-04-18 20:09:02,775] INFO - [SEÑAL] Recibida: <Signal 2025-04-18 20:08:45 |  | CALL | mhi1_minoria>
+[2025-04-18 20:09:02,806] INFO - [SEÑAL] Recibida: <Signal 2025-04-18 20:08:45 |  | PUT | mhi2_maioria>
+[2025-04-18 20:09:02,993] INFO - [SEÑAL] Recibida: <Signal 2025-04-18 20:08:45 |  | CALL | padrao_impar>
+[2025-04-18 20:09:03,225] INFO - [SEÑAL] Recibida: <Signal 2025-04-18 20:08:48 |  | CALL | mhi1_maioria>
+[2025-04-18 20:09:03,357] INFO - [SEÑAL] Recibida: <Signal 2025-04-18 20:08:48 |  | CALL | padrao_impar>
+[2025-04-18 20:09:03,368] INFO - [SEÑAL] Recibida: <Signal 2025-04-18 20:08:49 |  | PUT | turno_over>
+[2025-04-18 20:09:03,395] INFO - [SEÑAL] Recibida: <Signal 2025-04-18 20:08:49 |  | PUT | mhi2_maioria>
+[2025-04-18 20:09:03,457] INFO - [SEÑAL] Recibida: <Signal 2025-04-18 20:08:50 |  | PUT | turno_over>
+[2025-04-18 20:09:03,551] INFO - [SEÑAL] Recibida: <Signal 2025-04-18 20:09:03 |  | PUT | reversao>
+[2025-04-18 20:09:36,755] INFO -  Interrupción manual detectada. Cerrando núcleo...

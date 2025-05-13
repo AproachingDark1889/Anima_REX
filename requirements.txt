@@ -1,0 +1,16 @@
+dask[distributed]
+dask[dataframe]
+numpy
+pandas
+numba
+pyyaml
+apscheduler
+iqoptionapi
+gymnasium
+# Para agentes RL (opcional)
+stable-baselines3
+torch
+dask[distributed]
+flask
+pytest
+prometheus_client
